@@ -19,10 +19,6 @@ const Review = (props) => {
         reviewData
     } = props;
 
-    if (!reviewData) {
-        return '404';
-    }
-
     const [currentReportIndex, setCurrentReportIndex] = useState(0);
     const [performanceReviewInfo, setPerformanceReviewInfo] = useState([]);
     const reviewSessions = reviewData?.reviewSessions;
@@ -54,6 +50,10 @@ const Review = (props) => {
             });
         }
     };
+
+    if (!reviewData) {
+        return '404';
+    }
 
     return (
         <>

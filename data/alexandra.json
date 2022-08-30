@@ -1,0 +1,202 @@
+[
+  {
+    "Core area": "Domain Competence",
+    "Expected behaviour": "1. Our colleague creates value for their Team at a level consistent with their seniority level (Junior / Intermediate / Senior / Technical Lead / Technical Manager)",
+    "Current Review": "5 - Consistently exceeds expectations",
+    "Notes": "Whenever Alexandra is doing the QA of any product, she meticulously takes care of the products quallity, carefuly analysing any potential flow, edge case.\n\nHer work is valuable and sometimes can unveil unknown/unxeplored scenarios.\n\nShe managed to enhance her skillset since the previous round.",
+    "Previous Review": "4 - Occasionally exceeds expectations",
+    "Notes__1": "She has provided the entire group with the confidence that even the most complex or subtle behaviors have been carefully analysed, discussed, checked. \n\nShe has the potential to bring value to the product by enhancing the QA level, applying performance & stress tests.",
+    "Previous Review__1": "4 - Occasionally exceeds expectations",
+    "Previous Notes": "Alexandra has a deep understanding about the product and all of its features, she frequently draws the teams attention to corner cases, nobody thought of, while grooming/discussing requirements."
+  },
+  {
+    "Core area": "Domain Competence",
+    "Expected behaviour": "2. Our colleague proactively seeks to understand, apply and comply with industry standards that the Team has agreed to, to their work. This may be evidenced by seeking guidance from more senior members of their team, reading relevant materials, attending conferences, enrolling in training and certifications, etc.",
+    "Current Review": "4 - Frequently",
+    "Notes": "No change",
+    "Previous Review": "4 - Frequently",
+    "Notes__1": "She is in a continuous process of improving the quality if the work she is doing.\n\nOptimization: Since the previous review, she invested time and effort in quality over quantity, identifying changes in her codebase that increased functional reusability, cleaner code",
+    "Previous Review__1": "4 - Frequently",
+    "Previous Notes": "She frequently looks for possible approaches/solutions on how we could improve automated tests, asks for guidance/help from team members in exploring ideas and strives to understand refactoring suggestions."
+  },
+  {
+    "Core area": "Domain Competence",
+    "Expected behaviour": "3. As a technology and engineering organization, we depend on the consistent application of agreed methodologies of work in collaboration with our clients (e.g.: agile scrum) in order to efficiently and reliably meet our commitments with a high standard of quality. Our colleague proactively seeks to understand these processes in collaboration with our client and perform their role in adherence to these processes/ methodologies.",
+    "Current Review": "5 - Always",
+    "Notes": "Consistent.\n\nShe understands the processes and also challanges other team members to stick to the process",
+    "Previous Review": "5 - Always",
+    "Notes__1": "Alexandra understands our work methodology and processes, continuesly providing feedback on what is/isn't working. She constantly keeps track of ticket statuses and often tries to re-focus meetings to their original scope.",
+    "Previous Review__1": "5 - Always",
+    "Previous Notes": "Alexandra does proactively seek to understand our work methodology and processes. She is open to share her views on how these could be improved. She constantly keeps track of ticket statuses and often tries to re-focus meetings to their original scope."
+  },
+  {
+    "Core area": "Pragmatism",
+    "Expected behaviour": "4. At varying times, the client may seek to optimize for short term speed vs. long term efficiency. A pragmatic colleague understands this context at all times and strives to adapt their approach and mindset according to our customers current needs. For each unit of work (feature or task), our colleague seeks to understand where on the speed-to-efficiency continuum they should adapt their work so that they can best adapt their solution to the client’s current needs. Within these constraints, our colleague continually seeks the solutions that avoid unnecessary complexity.",
+    "Current Review": "5 - Always",
+    "Notes": "Very adaptable with the customers needs. \n\nContext switching with ease.",
+    "Previous Review": "4 - Frequently",
+    "Notes__1": "She is very flexible. Alexandra can quickly adapt to the situation at hand, even if this means changing the product/team, quicky understanding the context she needs to analyse, combining high speed with efficient and rigurous attention",
+    "Previous Review__1": "4 - Frequently",
+    "Previous Notes": "Alexandra is flexible in her approach/mindset when it comes to speed vs. efficiency. She can quickly adapt to the situation at hand."
+  },
+  {
+    "Core area": "Pragmatism",
+    "Expected behaviour": "5. As members of product engineering teams, we cannot be successful in creating value for our teams and our clients unless we understand the source and definition of that value. For each unit of work (feature or task), our colleague proactively seeks to clarify requirements and tasks as well as seeking to understand acceptance criteria or the desired outcome.",
+    "Current Review": "5 - Always",
+    "Notes": "No change",
+    "Previous Review": "5 - Always",
+    "Notes__1": "Alexandra has been able to look at the project as a whole, in logical pieces and the specific interactions. This perspective has given us the confidence that the right stuff is getting done and the right things are getting attention.",
+    "Previous Review__1": "5 - Always",
+    "Previous Notes": "She always strives to clarify requirements, she always tries to think about edge cases thus growing the entire teams' shared pool of knowledge about the feature/task at hand. She is attentive and actively involved in all discussions related to requirements."
+  },
+  {
+    "Core area": "Pragmatism",
+    "Expected behaviour": "6. As members of teams that depend on people and technology, there is a never ending supply of flaws, gaps, and items to be improved. While constructive criticism is valuable, much more valuable are the solutions that address those issues. When identifying problems or challenges, rather than simply complaining about them, our Colleague is solution oriented, seeking to identify and implement solutions that generate value for the client, the team, or QC..",
+    "Current Review": "4 - Frequently",
+    "Notes": "No change",
+    "Previous Review": "4 - Frequently",
+    "Notes__1": "Consistent+:\n\nHer level of confidence and decision ownership changed, researching and presenting identified solutions for potential improvements. Previously she needed to be guided",
+    "Previous Review__1": "4 - Frequently",
+    "Previous Notes": "When it comes to automated tests she is solution oriented, always trying identify problems/challenges and improve on the whole process of automated testing. She often seeks guidance on how to solve the technical challenges she faces."
+  },
+  {
+    "Core area": "Pragmatism",
+    "Expected behaviour": "7. Maximizing value for the team depends on the team’s ability to quickly and efficiently explore a diversity of approaches and solutions. When faced with unfamiliar options or approaches, our colleague does not dismiss them easily or just because they were thought of by someone else, but rather seeks to understand and improve when appropriate.",
+    "Current Review": "4 - Frequently",
+    "Notes": "Rather the other way aroud, she's always open to no approaches and proactively seeks to understand them",
+    "Previous Review": "4 - Frequently",
+    "Notes__1": "She is always open to suggestions/ideas and does not dismiss any of those",
+    "Previous Review__1": "4 - Frequently",
+    "Previous Notes": "She is always open to suggestions/ideas and does not dismiss any of those, but she was hesitant to try out/explore/pursue ideas on her own, recently she did try to improve automated tests pre-setup on her own."
+  },
+  {
+    "Core area": "Work ethic",
+    "Expected behaviour": "8. Our colleague is ever mindful of commitments that have been made, either by them personally or by their team. This colleague goes above and beyond their normal efforts when necessary in order to honor those commitments.",
+    "Current Review": "5 - Always",
+    "Notes": "No change",
+    "Previous Review": "5 - Always",
+    "Notes__1": "The team can always rely on Alexandra, she always goes above and beyond her normal effort when necessary to make sure the team honors their commitments.",
+    "Previous Review__1": "5 - Always",
+    "Previous Notes": "The team can always rely on Alexandra, she always goes above and beyond her normal effort when necessary to make sure the team honors their commitments."
+  },
+  {
+    "Core area": "Work ethic",
+    "Expected behaviour": "9. Our Colleague’s team members know that they can depend and rely on him/her to expend all reasonable efforts in order to honor the commitments that have been made.",
+    "Current Review": "5 - Always",
+    "Notes": "Her product team and also the QA team",
+    "Previous Review": "5 - Always",
+    "Notes__1": "The team can really rely on Alexandra to honor the commitments",
+    "Previous Review__1": "5 - Always",
+    "Previous Notes": "The team can really rely on Alexandra to honor the commitments"
+  },
+  {
+    "Core area": "Work ethic",
+    "Expected behaviour": "10. When the team or their fellow team members are facing a challenge (e.g. operational, deadline, technical) our Colleague proactively seeks to understand how they can help or support in overcoming the challenge.",
+    "Current Review": "5 - Always",
+    "Notes": "She has the desire to help others, being always available and involved when a challenge is occuring for the other colleagues\n\nProduct team / QA team",
+    "Previous Review": "5 - Always",
+    "Notes__1": "She isn't hesitant to offer her help. \nSince the team size got smaller, Alexandra frequently seeked to assist other team members with their dutties, helping on the platform's content creation side, but also examining the quality of that content, even though it wasn't in her area of expertise",
+    "Previous Review__1": "4 - Frequently",
+    "Previous Notes": "Alexandra does proactively seek to understand how she can help the team when facing a challenge, she frequently offers to help with glue-work."
+  },
+  {
+    "Core area": "Work ethic",
+    "Expected behaviour": "11. When faced with a circumstance where our Colleague disagrees with a decision made by the client, a team member, or their manager, our Colleague can constructively disagree, and commit to the decision with which they disagree, and then actively work to support a successful outcome for that decision.",
+    "Current Review": "4 - Frequently",
+    "Notes": "No change",
+    "Previous Review": "4 - Frequently",
+    "Notes__1": "Alexandra can commit to decisions she disagrees, but before a decision is made, she carefully exposes all the risks. This often results in helping the client undestand the topic better and reconsider the decision.",
+    "Previous Review__1": "3 - Sometimes",
+    "Previous Notes": "When Alexandra disagrees with a decision she does still commit to it, but sometimes she is perceived to not easily give up on her own idea."
+  },
+  {
+    "Core area": "Coaching and learning",
+    "Expected behaviour": "12. Our colleague notices when their less experienced team members might be struggling with new concepts or tasks and proactively offers coaching or guidance.",
+    "Current Review": "4 - Frequently",
+    "Notes": "She does notice when team members are struggling and offers guidance",
+    "Previous Review": "4 - Frequently",
+    "Notes__1": "[QC-QA-team] She's one of the 'go-to' persons for new members to ask for guidence.",
+    "Previous Review__1": "4 - Frequently",
+    "Previous Notes": "She does notice when team members are struggling and frequently offers guidance, especially for Miki during the on-boarding phase."
+  },
+  {
+    "Core area": "Coaching and learning",
+    "Expected behaviour": "13. When approached by a team member for guidance or assistance, our Colleague readily and enthusiastically renders such assistance.",
+    "Current Review": "5 - Always",
+    "Notes": "No change",
+    "Previous Review": "5 - Always",
+    "Notes__1": "Alexandra is always open and ready to help her colleagues when asked for help.",
+    "Previous Review__1": "5 - Always",
+    "Previous Notes": "Alexandra is always open and ready to help her colleagues when asked for help."
+  },
+  {
+    "Core area": "Coaching and learning",
+    "Expected behaviour": "14. Our Colleague proactively seeks available opportunities (either within QC or outside of QC) to further develop their professional skills. These opportunities might include professional certifications, classes (online or in person), public speaking opportunities, etc.",
+    "Current Review": "5 - Always",
+    "Notes": "No change",
+    "Previous Review": "5 - Always",
+    "Notes__1": "She is on tha path of learning front-end development, combining her time and effort with her work related assignments.\nThis was an initiative she embraced, understands the main concepts presented, has some struggles but undestands the importance of seeking quidence.",
+    "Previous Review__1": "4 - Frequently",
+    "Previous Notes": "Alexandra frequently seeks out learning and development opportunities especially when it comes to automated tests."
+  },
+  {
+    "Core area": "Coaching and learning",
+    "Expected behaviour": "15. Our Colleague proactively seeks to share their unique skills or knowledge within either their immediate team or the broader QC community. This may include such behaviors as sharing articles of professional interest that are relevant to the QC community, speaking at internal QC events, or seeking to advance a community of like minded practitioners of their craft within the QC community.",
+    "Current Review": "4 - Frequently",
+    "Notes": "She started to be exposed to knowledge sharing, on behalf of the QA team towards the QC & NGS community. \n\nTestrail",
+    "Previous Review": "3 - Sometimes",
+    "Notes__1": "Her researches, knowledge is well shared and presented within the IO team & QA team. The entire QC community could benefit with some knowledge sharing.",
+    "Previous Review__1": "3 - Sometimes",
+    "Previous Notes": "Alexandra often shares her new found knowledge with the team, but rarely in a broader QC setting."
+  },
+  {
+    "Core area": "Communication",
+    "Expected behaviour": "16. Our Colleague actively seeks as well as constructively receives feedback regarding their performance, behavior, and interactions with their immediate team. When presented with both negative and positive feedback, our Colleague strives to understand the feedback and identify opportunities for improvement. Our Colleague does not get defensive or act to criticize the provider of feedback.",
+    "Current Review": "4 - Frequently",
+    "Notes": "No change",
+    "Previous Review": "4 - Frequently",
+    "Notes__1": "Alexandra frequently is interested in her current carrer path, what areas she should improve. She understands the importance of provided feedback (positive or negative) and receives it in an constructive manner.",
+    "Previous Review__1": "4 - Frequently",
+    "Previous Notes": "She seeks feedback sometimes and when presented with feedback she strives to understand it even if it is negative, she is very self aware and can take criticism in a constructive manner."
+  },
+  {
+    "Core area": "Communication",
+    "Expected behaviour": "17. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in INTERNAL team or QC settings.",
+    "Current Review": "4 - Frequently",
+    "Notes": "No change",
+    "Previous Review": "4 - Frequently",
+    "Notes__1": "She tries to provide clear context to any found issue, topic.\nOver-communication doesn't seem to be an issue any more.",
+    "Previous Review__1": "4 - Frequently",
+    "Previous Notes": "She is very proactive when communicating internally and is involved in all team discussions. She tends to over-communicate sometimes, and it can take long for her to get to the point. When in a critical/stressful situations she seems to over-communicate even more."
+  },
+  {
+    "Core area": "Communication",
+    "Expected behaviour": "18. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in CLIENT facing or more formal EXTERNAL situations.  These will likely include daily standups, client product demos, etc.",
+    "Current Review": "4 - Frequently",
+    "Notes": "No change",
+    "Previous Review": "4 - Frequently",
+    "Notes__1": "In terms of technical, work related topics, Alexandra is an effective and proactive communicator.\nPreviously she wasn't confident in responsing to client's technical questions, a section she improved lately.",
+    "Previous Review__1": "4 - Frequently",
+    "Previous Notes": "She is very proactive when communicating externally and is involved in all team discussions. She tends to over-communicate sometimes, and it can take long for her to get to the point."
+  },
+  {
+    "Core area": "Communication",
+    "Expected behaviour": "19. Good communications are essential for creating visibility and understanding in any client service business or any environment where other team members depend on our efforts.  Our Colleague proactively seeks to communicate the amount of information that is necessary and sufficient to create this visibility both for their team and the Client. This includes the timely communication of the current status of their efforts upon the team's behalf, their availability during business hours, and any obstacles where they may need support in order to be successful in their respective role.",
+    "Current Review": "5 - Always",
+    "Notes": "Alexandra communicates effectively and is able to create visibility both for the team and the client. \n\nStatus updates, obstacles,",
+    "Previous Review": "5 - Always",
+    "Notes__1": "She consistently shows up when we need her and knows when to leave to get her work done when she is not needed \n\n\"She is great at explaining to the product team how the product works from the developers perspective, she is essentially the bridge between the dev team and the product team.",
+    "Previous Review__1": "4 - Frequently",
+    "Previous Notes": "Alexandra does communicate proactively and in a timely manner, but tends to over-communicate sometimes."
+  },
+  {
+    "Core area": "Communication",
+    "Expected behaviour": "20. In teams of varied personalities and backgrounds, it is inevitable that team members may disagree or conflict on issues of substance or personality.  Our Colleague navigates conflict situations constructively and understands how to defuse situations without letting them become personal. This includes the consistent ability to communicate a negative message (“I disagree with you for X reasons”) while maintaining a personal respect for their team mate and their role.",
+    "Current Review": "3 - Sometimes",
+    "Notes": "She manages to defuse personal conflicts.\n\nWhen she disagrees with something, her initial opinion may not be perceived that well. Sometime you need to check what exactly is the cause",
+    "Previous Review": "4 - Frequently",
+    "Notes__1": "Since the team got smaller, she started to reduce, understand and defuse personal conflicts, for the benefit of the team",
+    "Previous Review__1": "3 - Sometimes",
+    "Previous Notes": "While she is very self aware sometimes she can take comments/remarks too personally and she can get defensive."
+  }
+]

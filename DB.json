@@ -1,0 +1,2011 @@
+[
+  {
+    "id": "7c4e95ae-8d88-48c9-8fa9-39bc462ba72c",
+    "firstName": "Alexandra",
+    "lastName": "Busu",
+    "reviewSessions": {
+      "2022-08-14T21:00:00.000Z": [
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "1. Our colleague creates value for their Team at a level consistent with their seniority level (Junior / Intermediate / Senior / Technical Lead / Technical Manager)",
+          "review": "5 - Consistently exceeds expectations",
+          "notes": "Whenever Alexandra is doing the QA of any product, she meticulously takes care of the products quallity, carefuly analysing any potential flow, edge case.\n\nHer work is valuable and sometimes can unveil unknown/unxeplored scenarios.\n\nShe managed to enhance her skillset since the previous round.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "2. Our colleague proactively seeks to understand, apply and comply with industry standards that the Team has agreed to, to their work. This may be evidenced by seeking guidance from more senior members of their team, reading relevant materials, attending conferences, enrolling in training and certifications, etc.",
+          "review": "4 - Frequently",
+          "notes": "No change",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "3. As a technology and engineering organization, we depend on the consistent application of agreed methodologies of work in collaboration with our clients (e.g.: agile scrum) in order to efficiently and reliably meet our commitments with a high standard of quality. Our colleague proactively seeks to understand these processes in collaboration with our client and perform their role in adherence to these processes/ methodologies.",
+          "review": "5 - Always",
+          "notes": "Consistent.\n\nShe understands the processes and also challanges other team members to stick to the process",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "4. At varying times, the client may seek to optimize for short term speed vs. long term efficiency. A pragmatic colleague understands this context at all times and strives to adapt their approach and mindset according to our customers current needs. For each unit of work (feature or task), our colleague seeks to understand where on the speed-to-efficiency continuum they should adapt their work so that they can best adapt their solution to the client’s current needs. Within these constraints, our colleague continually seeks the solutions that avoid unnecessary complexity.",
+          "review": "5 - Always",
+          "notes": "Very adaptable with the customers needs. \n\nContext switching with ease.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "5. As members of product engineering teams, we cannot be successful in creating value for our teams and our clients unless we understand the source and definition of that value. For each unit of work (feature or task), our colleague proactively seeks to clarify requirements and tasks as well as seeking to understand acceptance criteria or the desired outcome.",
+          "review": "5 - Always",
+          "notes": "No change",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "6. As members of teams that depend on people and technology, there is a never ending supply of flaws, gaps, and items to be improved. While constructive criticism is valuable, much more valuable are the solutions that address those issues. When identifying problems or challenges, rather than simply complaining about them, our Colleague is solution oriented, seeking to identify and implement solutions that generate value for the client, the team, or QC..",
+          "review": "4 - Frequently",
+          "notes": "No change",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "7. Maximizing value for the team depends on the team’s ability to quickly and efficiently explore a diversity of approaches and solutions. When faced with unfamiliar options or approaches, our colleague does not dismiss them easily or just because they were thought of by someone else, but rather seeks to understand and improve when appropriate.",
+          "review": "4 - Frequently",
+          "notes": "Rather the other way aroud, she's always open to no approaches and proactively seeks to understand them",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "8. Our colleague is ever mindful of commitments that have been made, either by them personally or by their team. This colleague goes above and beyond their normal efforts when necessary in order to honor those commitments.",
+          "review": "5 - Always",
+          "notes": "No change",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "9. Our Colleague’s team members know that they can depend and rely on him/her to expend all reasonable efforts in order to honor the commitments that have been made.",
+          "review": "5 - Always",
+          "notes": "Her product team and also the QA team",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "10. When the team or their fellow team members are facing a challenge (e.g. operational, deadline, technical) our Colleague proactively seeks to understand how they can help or support in overcoming the challenge.",
+          "review": "5 - Always",
+          "notes": "She has the desire to help others, being always available and involved when a challenge is occuring for the other colleagues\n\nProduct team / QA team",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "11. When faced with a circumstance where our Colleague disagrees with a decision made by the client, a team member, or their manager, our Colleague can constructively disagree, and commit to the decision with which they disagree, and then actively work to support a successful outcome for that decision.",
+          "review": "4 - Frequently",
+          "notes": "No change",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "12. Our colleague notices when their less experienced team members might be struggling with new concepts or tasks and proactively offers coaching or guidance.",
+          "review": "4 - Frequently",
+          "notes": "She does notice when team members are struggling and offers guidance",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "13. When approached by a team member for guidance or assistance, our Colleague readily and enthusiastically renders such assistance.",
+          "review": "5 - Always",
+          "notes": "No change",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "14. Our Colleague proactively seeks available opportunities (either within QC or outside of QC) to further develop their professional skills. These opportunities might include professional certifications, classes (online or in person), public speaking opportunities, etc.",
+          "review": "5 - Always",
+          "notes": "No change",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "15. Our Colleague proactively seeks to share their unique skills or knowledge within either their immediate team or the broader QC community. This may include such behaviors as sharing articles of professional interest that are relevant to the QC community, speaking at internal QC events, or seeking to advance a community of like minded practitioners of their craft within the QC community.",
+          "review": "4 - Frequently",
+          "notes": "She started to be exposed to knowledge sharing, on behalf of the QA team towards the QC & NGS community. \n\nTestrail",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "16. Our Colleague actively seeks as well as constructively receives feedback regarding their performance, behavior, and interactions with their immediate team. When presented with both negative and positive feedback, our Colleague strives to understand the feedback and identify opportunities for improvement. Our Colleague does not get defensive or act to criticize the provider of feedback.",
+          "review": "4 - Frequently",
+          "notes": "No change",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "17. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in INTERNAL team or QC settings.",
+          "review": "4 - Frequently",
+          "notes": "No change",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "18. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in CLIENT facing or more formal EXTERNAL situations.  These will likely include daily standups, client product demos, etc.",
+          "review": "4 - Frequently",
+          "notes": "No change",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "19. Good communications are essential for creating visibility and understanding in any client service business or any environment where other team members depend on our efforts.  Our Colleague proactively seeks to communicate the amount of information that is necessary and sufficient to create this visibility both for their team and the Client. This includes the timely communication of the current status of their efforts upon the team's behalf, their availability during business hours, and any obstacles where they may need support in order to be successful in their respective role.",
+          "review": "5 - Always",
+          "notes": "Alexandra communicates effectively and is able to create visibility both for the team and the client. \n\nStatus updates, obstacles,",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "20. In teams of varied personalities and backgrounds, it is inevitable that team members may disagree or conflict on issues of substance or personality.  Our Colleague navigates conflict situations constructively and understands how to defuse situations without letting them become personal. This includes the consistent ability to communicate a negative message (“I disagree with you for X reasons”) while maintaining a personal respect for their team mate and their role.",
+          "review": "3 - Sometimes",
+          "notes": "She manages to defuse personal conflicts.\n\nWhen she disagrees with something, her initial opinion may not be perceived that well. Sometime you need to check what exactly is the cause",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        }
+      ],
+      "2021-12-14T22:00:00.000Z": [
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "1. Our colleague creates value for their Team at a level consistent with their seniority level (Junior / Intermediate / Senior / Technical Lead / Technical Manager)",
+          "review": "4 - Occasionally exceeds expectations",
+          "notes": "She has provided the entire group with the confidence that even the most complex or subtle behaviors have been carefully analysed, discussed, checked. \n\nShe has the potential to bring value to the product by enhancing the QA level, applying performance & stress tests.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "2. Our colleague proactively seeks to understand, apply and comply with industry standards that the Team has agreed to, to their work. This may be evidenced by seeking guidance from more senior members of their team, reading relevant materials, attending conferences, enrolling in training and certifications, etc.",
+          "review": "4 - Frequently",
+          "notes": "She is in a continuous process of improving the quality if the work she is doing.\n\nOptimization: Since the previous review, she invested time and effort in quality over quantity, identifying changes in her codebase that increased functional reusability, cleaner code",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "3. As a technology and engineering organization, we depend on the consistent application of agreed methodologies of work in collaboration with our clients (e.g.: agile scrum) in order to efficiently and reliably meet our commitments with a high standard of quality. Our colleague proactively seeks to understand these processes in collaboration with our client and perform their role in adherence to these processes/ methodologies.",
+          "review": "5 - Always",
+          "notes": "Alexandra understands our work methodology and processes, continuesly providing feedback on what is/isn't working. She constantly keeps track of ticket statuses and often tries to re-focus meetings to their original scope.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "4. At varying times, the client may seek to optimize for short term speed vs. long term efficiency. A pragmatic colleague understands this context at all times and strives to adapt their approach and mindset according to our customers current needs. For each unit of work (feature or task), our colleague seeks to understand where on the speed-to-efficiency continuum they should adapt their work so that they can best adapt their solution to the client’s current needs. Within these constraints, our colleague continually seeks the solutions that avoid unnecessary complexity.",
+          "review": "4 - Frequently",
+          "notes": "She is very flexible. Alexandra can quickly adapt to the situation at hand, even if this means changing the product/team, quicky understanding the context she needs to analyse, combining high speed with efficient and rigurous attention",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "5. As members of product engineering teams, we cannot be successful in creating value for our teams and our clients unless we understand the source and definition of that value. For each unit of work (feature or task), our colleague proactively seeks to clarify requirements and tasks as well as seeking to understand acceptance criteria or the desired outcome.",
+          "review": "5 - Always",
+          "notes": "Alexandra has been able to look at the project as a whole, in logical pieces and the specific interactions. This perspective has given us the confidence that the right stuff is getting done and the right things are getting attention.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "6. As members of teams that depend on people and technology, there is a never ending supply of flaws, gaps, and items to be improved. While constructive criticism is valuable, much more valuable are the solutions that address those issues. When identifying problems or challenges, rather than simply complaining about them, our Colleague is solution oriented, seeking to identify and implement solutions that generate value for the client, the team, or QC..",
+          "review": "4 - Frequently",
+          "notes": "Consistent+:\n\nHer level of confidence and decision ownership changed, researching and presenting identified solutions for potential improvements. Previously she needed to be guided",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "7. Maximizing value for the team depends on the team’s ability to quickly and efficiently explore a diversity of approaches and solutions. When faced with unfamiliar options or approaches, our colleague does not dismiss them easily or just because they were thought of by someone else, but rather seeks to understand and improve when appropriate.",
+          "review": "4 - Frequently",
+          "notes": "She is always open to suggestions/ideas and does not dismiss any of those",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "8. Our colleague is ever mindful of commitments that have been made, either by them personally or by their team. This colleague goes above and beyond their normal efforts when necessary in order to honor those commitments.",
+          "review": "5 - Always",
+          "notes": "The team can always rely on Alexandra, she always goes above and beyond her normal effort when necessary to make sure the team honors their commitments.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "9. Our Colleague’s team members know that they can depend and rely on him/her to expend all reasonable efforts in order to honor the commitments that have been made.",
+          "review": "5 - Always",
+          "notes": "The team can really rely on Alexandra to honor the commitments",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "10. When the team or their fellow team members are facing a challenge (e.g. operational, deadline, technical) our Colleague proactively seeks to understand how they can help or support in overcoming the challenge.",
+          "review": "5 - Always",
+          "notes": "She isn't hesitant to offer her help. \nSince the team size got smaller, Alexandra frequently seeked to assist other team members with their dutties, helping on the platform's content creation side, but also examining the quality of that content, even though it wasn't in her area of expertise",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "11. When faced with a circumstance where our Colleague disagrees with a decision made by the client, a team member, or their manager, our Colleague can constructively disagree, and commit to the decision with which they disagree, and then actively work to support a successful outcome for that decision.",
+          "review": "4 - Frequently",
+          "notes": "Alexandra can commit to decisions she disagrees, but before a decision is made, she carefully exposes all the risks. This often results in helping the client undestand the topic better and reconsider the decision.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "12. Our colleague notices when their less experienced team members might be struggling with new concepts or tasks and proactively offers coaching or guidance.",
+          "review": "4 - Frequently",
+          "notes": "[QC-QA-team] She's one of the 'go-to' persons for new members to ask for guidence.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "13. When approached by a team member for guidance or assistance, our Colleague readily and enthusiastically renders such assistance.",
+          "review": "5 - Always",
+          "notes": "Alexandra is always open and ready to help her colleagues when asked for help.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "14. Our Colleague proactively seeks available opportunities (either within QC or outside of QC) to further develop their professional skills. These opportunities might include professional certifications, classes (online or in person), public speaking opportunities, etc.",
+          "review": "5 - Always",
+          "notes": "She is on tha path of learning front-end development, combining her time and effort with her work related assignments.\nThis was an initiative she embraced, understands the main concepts presented, has some struggles but undestands the importance of seeking quidence.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "15. Our Colleague proactively seeks to share their unique skills or knowledge within either their immediate team or the broader QC community. This may include such behaviors as sharing articles of professional interest that are relevant to the QC community, speaking at internal QC events, or seeking to advance a community of like minded practitioners of their craft within the QC community.",
+          "review": "3 - Sometimes",
+          "notes": "Her researches, knowledge is well shared and presented within the IO team & QA team. The entire QC community could benefit with some knowledge sharing.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "16. Our Colleague actively seeks as well as constructively receives feedback regarding their performance, behavior, and interactions with their immediate team. When presented with both negative and positive feedback, our Colleague strives to understand the feedback and identify opportunities for improvement. Our Colleague does not get defensive or act to criticize the provider of feedback.",
+          "review": "4 - Frequently",
+          "notes": "Alexandra frequently is interested in her current carrer path, what areas she should improve. She understands the importance of provided feedback (positive or negative) and receives it in an constructive manner.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "17. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in INTERNAL team or QC settings.",
+          "review": "4 - Frequently",
+          "notes": "She tries to provide clear context to any found issue, topic.\nOver-communication doesn't seem to be an issue any more.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "18. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in CLIENT facing or more formal EXTERNAL situations.  These will likely include daily standups, client product demos, etc.",
+          "review": "4 - Frequently",
+          "notes": "In terms of technical, work related topics, Alexandra is an effective and proactive communicator.\nPreviously she wasn't confident in responsing to client's technical questions, a section she improved lately.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "19. Good communications are essential for creating visibility and understanding in any client service business or any environment where other team members depend on our efforts.  Our Colleague proactively seeks to communicate the amount of information that is necessary and sufficient to create this visibility both for their team and the Client. This includes the timely communication of the current status of their efforts upon the team's behalf, their availability during business hours, and any obstacles where they may need support in order to be successful in their respective role.",
+          "review": "5 - Always",
+          "notes": "She consistently shows up when we need her and knows when to leave to get her work done when she is not needed \n\n\"She is great at explaining to the product team how the product works from the developers perspective, she is essentially the bridge between the dev team and the product team.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "20. In teams of varied personalities and backgrounds, it is inevitable that team members may disagree or conflict on issues of substance or personality.  Our Colleague navigates conflict situations constructively and understands how to defuse situations without letting them become personal. This includes the consistent ability to communicate a negative message (“I disagree with you for X reasons”) while maintaining a personal respect for their team mate and their role.",
+          "review": "4 - Frequently",
+          "notes": "Since the team got smaller, she started to reduce, understand and defuse personal conflicts, for the benefit of the team",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        }
+      ],
+      "2021-06-14T21:00:00.000Z": [
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "1. Our colleague creates value for their Team at a level consistent with their seniority level (Junior / Intermediate / Senior / Technical Lead / Technical Manager)",
+          "review": "4 - Occasionally exceeds expectations",
+          "notes": "Alexandra has a deep understanding about the product and all of its features, she frequently draws the teams attention to corner cases, nobody thought of, while grooming/discussing requirements.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "2. Our colleague proactively seeks to understand, apply and comply with industry standards that the Team has agreed to, to their work. This may be evidenced by seeking guidance from more senior members of their team, reading relevant materials, attending conferences, enrolling in training and certifications, etc.",
+          "review": "4 - Frequently",
+          "notes": "She frequently looks for possible approaches/solutions on how we could improve automated tests, asks for guidance/help from team members in exploring ideas and strives to understand refactoring suggestions.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "3. As a technology and engineering organization, we depend on the consistent application of agreed methodologies of work in collaboration with our clients (e.g.: agile scrum) in order to efficiently and reliably meet our commitments with a high standard of quality. Our colleague proactively seeks to understand these processes in collaboration with our client and perform their role in adherence to these processes/ methodologies.",
+          "review": "5 - Always",
+          "notes": "Alexandra does proactively seek to understand our work methodology and processes. She is open to share her views on how these could be improved. She constantly keeps track of ticket statuses and often tries to re-focus meetings to their original scope.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "4. At varying times, the client may seek to optimize for short term speed vs. long term efficiency. A pragmatic colleague understands this context at all times and strives to adapt their approach and mindset according to our customers current needs. For each unit of work (feature or task), our colleague seeks to understand where on the speed-to-efficiency continuum they should adapt their work so that they can best adapt their solution to the client’s current needs. Within these constraints, our colleague continually seeks the solutions that avoid unnecessary complexity.",
+          "review": "4 - Frequently",
+          "notes": "Alexandra is flexible in her approach/mindset when it comes to speed vs. efficiency. She can quickly adapt to the situation at hand.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "5. As members of product engineering teams, we cannot be successful in creating value for our teams and our clients unless we understand the source and definition of that value. For each unit of work (feature or task), our colleague proactively seeks to clarify requirements and tasks as well as seeking to understand acceptance criteria or the desired outcome.",
+          "review": "5 - Always",
+          "notes": "She always strives to clarify requirements, she always tries to think about edge cases thus growing the entire teams' shared pool of knowledge about the feature/task at hand. She is attentive and actively involved in all discussions related to requirements.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "6. As members of teams that depend on people and technology, there is a never ending supply of flaws, gaps, and items to be improved. While constructive criticism is valuable, much more valuable are the solutions that address those issues. When identifying problems or challenges, rather than simply complaining about them, our Colleague is solution oriented, seeking to identify and implement solutions that generate value for the client, the team, or QC..",
+          "review": "4 - Frequently",
+          "notes": "When it comes to automated tests she is solution oriented, always trying identify problems/challenges and improve on the whole process of automated testing. She often seeks guidance on how to solve the technical challenges she faces.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "7. Maximizing value for the team depends on the team’s ability to quickly and efficiently explore a diversity of approaches and solutions. When faced with unfamiliar options or approaches, our colleague does not dismiss them easily or just because they were thought of by someone else, but rather seeks to understand and improve when appropriate.",
+          "review": "4 - Frequently",
+          "notes": "She is always open to suggestions/ideas and does not dismiss any of those, but she was hesitant to try out/explore/pursue ideas on her own, recently she did try to improve automated tests pre-setup on her own.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "8. Our colleague is ever mindful of commitments that have been made, either by them personally or by their team. This colleague goes above and beyond their normal efforts when necessary in order to honor those commitments.",
+          "review": "5 - Always",
+          "notes": "The team can always rely on Alexandra, she always goes above and beyond her normal effort when necessary to make sure the team honors their commitments.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "9. Our Colleague’s team members know that they can depend and rely on him/her to expend all reasonable efforts in order to honor the commitments that have been made.",
+          "review": "5 - Always",
+          "notes": "The team can really rely on Alexandra to honor the commitments",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "10. When the team or their fellow team members are facing a challenge (e.g. operational, deadline, technical) our Colleague proactively seeks to understand how they can help or support in overcoming the challenge.",
+          "review": "4 - Frequently",
+          "notes": "Alexandra does proactively seek to understand how she can help the team when facing a challenge, she frequently offers to help with glue-work.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "11. When faced with a circumstance where our Colleague disagrees with a decision made by the client, a team member, or their manager, our Colleague can constructively disagree, and commit to the decision with which they disagree, and then actively work to support a successful outcome for that decision.",
+          "review": "3 - Sometimes",
+          "notes": "When Alexandra disagrees with a decision she does still commit to it, but sometimes she is perceived to not easily give up on her own idea.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "12. Our colleague notices when their less experienced team members might be struggling with new concepts or tasks and proactively offers coaching or guidance.",
+          "review": "4 - Frequently",
+          "notes": "She does notice when team members are struggling and frequently offers guidance, especially for Miki during the on-boarding phase.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "13. When approached by a team member for guidance or assistance, our Colleague readily and enthusiastically renders such assistance.",
+          "review": "5 - Always",
+          "notes": "Alexandra is always open and ready to help her colleagues when asked for help.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "14. Our Colleague proactively seeks available opportunities (either within QC or outside of QC) to further develop their professional skills. These opportunities might include professional certifications, classes (online or in person), public speaking opportunities, etc.",
+          "review": "4 - Frequently",
+          "notes": "Alexandra frequently seeks out learning and development opportunities especially when it comes to automated tests.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "15. Our Colleague proactively seeks to share their unique skills or knowledge within either their immediate team or the broader QC community. This may include such behaviors as sharing articles of professional interest that are relevant to the QC community, speaking at internal QC events, or seeking to advance a community of like minded practitioners of their craft within the QC community.",
+          "review": "3 - Sometimes",
+          "notes": "Alexandra often shares her new found knowledge with the team, but rarely in a broader QC setting.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "16. Our Colleague actively seeks as well as constructively receives feedback regarding their performance, behavior, and interactions with their immediate team. When presented with both negative and positive feedback, our Colleague strives to understand the feedback and identify opportunities for improvement. Our Colleague does not get defensive or act to criticize the provider of feedback.",
+          "review": "4 - Frequently",
+          "notes": "She seeks feedback sometimes and when presented with feedback she strives to understand it even if it is negative, she is very self aware and can take criticism in a constructive manner.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "17. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in INTERNAL team or QC settings.",
+          "review": "4 - Frequently",
+          "notes": "She is very proactive when communicating internally and is involved in all team discussions. She tends to over-communicate sometimes, and it can take long for her to get to the point. When in a critical/stressful situations she seems to over-communicate even more.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "18. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in CLIENT facing or more formal EXTERNAL situations.  These will likely include daily standups, client product demos, etc.",
+          "review": "4 - Frequently",
+          "notes": "She is very proactive when communicating externally and is involved in all team discussions. She tends to over-communicate sometimes, and it can take long for her to get to the point.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "19. Good communications are essential for creating visibility and understanding in any client service business or any environment where other team members depend on our efforts.  Our Colleague proactively seeks to communicate the amount of information that is necessary and sufficient to create this visibility both for their team and the Client. This includes the timely communication of the current status of their efforts upon the team's behalf, their availability during business hours, and any obstacles where they may need support in order to be successful in their respective role.",
+          "review": "4 - Frequently",
+          "notes": "Alexandra does communicate proactively and in a timely manner, but tends to over-communicate sometimes.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "20. In teams of varied personalities and backgrounds, it is inevitable that team members may disagree or conflict on issues of substance or personality.  Our Colleague navigates conflict situations constructively and understands how to defuse situations without letting them become personal. This includes the consistent ability to communicate a negative message (“I disagree with you for X reasons”) while maintaining a personal respect for their team mate and their role.",
+          "review": "3 - Sometimes",
+          "notes": "While she is very self aware sometimes she can take comments/remarks too personally and she can get defensive.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "af32ac66-aefc-4845-98a7-3a126c65be56",
+    "firstName": "Iulia",
+    "lastName": "Benyi",
+    "reviewSessions": {
+      "2022-08-14T21:00:00.000Z": [
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "1. Our colleague creates value for their Team at a level consistent with their seniority level (Junior / Intermediate / Senior / Technical Lead / Technical Manager)",
+          "review": "4 - Occasionally exceeds expectations",
+          "notes": "She started to take awnership for her work, creating valuable implementations",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "2. Our colleague proactively seeks to understand, apply and comply with industry standards that the Team has agreed to, to their work. This may be evidenced by seeking guidance from more senior members of their team, reading relevant materials, attending conferences, enrolling in training and certifications, etc.",
+          "review": "4 - Frequently",
+          "notes": "She frequently asks for possible approaches/solutions on how to improve her skillset, asking for guidance/help from team members in exploring ideas and strives to understand refactoring suggestions.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "3. As a technology and engineering organization, we depend on the consistent application of agreed methodologies of work in collaboration with our clients (e.g.: agile scrum) in order to efficiently and reliably meet our commitments with a high standard of quality. Our colleague proactively seeks to understand these processes in collaboration with our client and perform their role in adherence to these processes/ methodologies.",
+          "review": "4 - Frequently",
+          "notes": "Focusing on understanding the entire team processes & SCRUM process, how to take advantage of each ceremony.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "5. As members of product engineering teams, we cannot be successful in creating value for our teams and our clients unless we understand the source and definition of that value. For each unit of work (feature or task), our colleague proactively seeks to clarify requirements and tasks as well as seeking to understand acceptance criteria or the desired outcome.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "6. As members of teams that depend on people and technology, there is a never ending supply of flaws, gaps, and items to be improved. While constructive criticism is valuable, much more valuable are the solutions that address those issues. When identifying problems or challenges, rather than simply complaining about them, our Colleague is solution oriented, seeking to identify and implement solutions that generate value for the client, the team, or QC..",
+          "review": "4 - Frequently",
+          "notes": "Didn't encounter till now a situation in which she complained about or didn't try to contribute constructively with her knowledge and experience to a solution.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "7. Maximizing value for the team depends on the team’s ability to quickly and efficiently explore a diversity of approaches and solutions. When faced with unfamiliar options or approaches, our colleague does not dismiss them easily or just because they were thought of by someone else, but rather seeks to understand and improve when appropriate.",
+          "review": "4 - Frequently",
+          "notes": "Iulia's always open to understand/explore new solutions and understands the importance of suggestions and carefully analyses improvements",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "8. Our colleague is ever mindful of commitments that have been made, either by them personally or by their team. This colleague goes above and beyond their normal efforts when necessary in order to honor those commitments.",
+          "review": "4 - Frequently",
+          "notes": "She is frequently pushing herself in order to deliver team or personal commitments.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "9. Our Colleague’s team members know that they can depend and rely on him/her to expend all reasonable efforts in order to honor the commitments that have been made.",
+          "review": "4 - Frequently",
+          "notes": "Yes, she's a reliable team member",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "10. When the team or their fellow team members are facing a challenge (e.g. operational, deadline, technical) our Colleague proactively seeks to understand how they can help or support in overcoming the challenge.",
+          "review": "3 - Sometimes",
+          "notes": "She has the desire to help and be part of the development team, as a team member, asking for work, trying to help others",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "11. When faced with a circumstance where our Colleague disagrees with a decision made by the client, a team member, or their manager, our Colleague can constructively disagree, and commit to the decision with which they disagree, and then actively work to support a successful outcome for that decision.",
+          "review": "4 - Frequently",
+          "notes": "Didn't find situations in which Iulia was not able to disagree and commit",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "12. Our colleague notices when their less experienced team members might be struggling with new concepts or tasks and proactively offers coaching or guidance.",
+          "review": "2 - Rarely",
+          "notes": "Cannot evaluate",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "13. When approached by a team member for guidance or assistance, our Colleague readily and enthusiastically renders such assistance.",
+          "review": "4 - Frequently",
+          "notes": "Iulia is enthusiastic to be part and help the team whenever possible, incliding scenarios where she might need to further learn/research in order to create valuable work.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "14. Our Colleague proactively seeks available opportunities (either within QC or outside of QC) to further develop their professional skills. These opportunities might include professional certifications, classes (online or in person), public speaking opportunities, etc.",
+          "review": "4 - Frequently",
+          "notes": "She has been constantly assigned to enhance her professional skills",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "15. Our Colleague proactively seeks to share their unique skills or knowledge within either their immediate team or the broader QC community. This may include such behaviors as sharing articles of professional interest that are relevant to the QC community, speaking at internal QC events, or seeking to advance a community of like minded practitioners of their craft within the QC community.",
+          "review": "3 - Sometimes",
+          "notes": "When faced with scnearios where she needed to enahnce the product (adding unit tests), a desire to also share this research and findings with her immediate team was clearly visible.\n\nThis behavior would be very appreciated in the QC community. Since she is at the begining of her career, I would suggested working on enhancing her confidence level to share new knowledge learned in broader QC events.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "16. Our Colleague actively seeks as well as constructively receives feedback regarding their performance, behavior, and interactions with their immediate team. When presented with both negative and positive feedback, our Colleague strives to understand the feedback and identify opportunities for improvement. Our Colleague does not get defensive or act to criticize the provider of feedback.",
+          "review": "4 - Frequently",
+          "notes": "She understands the importance of provided feedback (positive or negative) and receives it in an constructive manner. The suggested improvements can also be reflected immediatly in Iulia's work",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "17. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in INTERNAL team or QC settings.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "18. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in CLIENT facing or more formal EXTERNAL situations.  These will likely include daily standups, client product demos, etc.",
+          "review": "3 - Sometimes",
+          "notes": "She could contribute more in ceremonies that involve external members, stakeholders: sprint reviews, demos",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "19. Good communications are essential for creating visibility and understanding in any client service business or any environment where other team members depend on our efforts.  Our Colleague proactively seeks to communicate the amount of information that is necessary and sufficient to create this visibility both for their team and the Client. This includes the timely communication of the current status of their efforts upon the team's behalf, their availability during business hours, and any obstacles where they may need support in order to be successful in their respective role.",
+          "review": "4 - Frequently",
+          "notes": "Iulia is organised and communicates effectively, using both verbal and written communication channels, creating transparency and visibility for the client and the team",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "20. In teams of varied personalities and backgrounds, it is inevitable that team members may disagree or conflict on issues of substance or personality.  Our Colleague navigates conflict situations constructively and understands how to defuse situations without letting them become personal. This includes the consistent ability to communicate a negative message (“I disagree with you for X reasons”) while maintaining a personal respect for their team mate and their role.",
+          "review": "4 - Frequently",
+          "notes": "We didn't encounter conflicts that was not handled constructively or well by Iulia. She is always treating the others with respect.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        }
+      ],
+      "2021-12-14T22:00:00.000Z": [
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "1. Our colleague creates value for their Team at a level consistent with their seniority level (Junior / Intermediate / Senior / Technical Lead / Technical Manager)",
+          "review": "3 - Meets expectations",
+          "notes": "She has an ease of understainding the main concepts faced during her training sessions",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "2. Our colleague proactively seeks to understand, apply and comply with industry standards that the Team has agreed to, to their work. This may be evidenced by seeking guidance from more senior members of their team, reading relevant materials, attending conferences, enrolling in training and certifications, etc.",
+          "review": "3 - Sometimes",
+          "notes": "She is in a continuous process of improving the quality if the work she is doing, paying attention to her provided learning path and looking for external docummentation.\n\nOptimization: whould reccomend proactive self doccumentation.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "3. As a technology and engineering organization, we depend on the consistent application of agreed methodologies of work in collaboration with our clients (e.g.: agile scrum) in order to efficiently and reliably meet our commitments with a high standard of quality. Our colleague proactively seeks to understand these processes in collaboration with our client and perform their role in adherence to these processes/ methodologies.",
+          "review": "",
+          "notes": "Currently she didn't have a chance to work under a standardised methodology.\nConsidering the learning path proposed meetings, she's ok",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "4. At varying times, the client may seek to optimize for short term speed vs. long term efficiency. A pragmatic colleague understands this context at all times and strives to adapt their approach and mindset according to our customers current needs. For each unit of work (feature or task), our colleague seeks to understand where on the speed-to-efficiency continuum they should adapt their work so that they can best adapt their solution to the client’s current needs. Within these constraints, our colleague continually seeks the solutions that avoid unnecessary complexity.",
+          "review": "",
+          "notes": "Cannot evaluate",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "5. As members of product engineering teams, we cannot be successful in creating value for our teams and our clients unless we understand the source and definition of that value. For each unit of work (feature or task), our colleague proactively seeks to clarify requirements and tasks as well as seeking to understand acceptance criteria or the desired outcome.",
+          "review": "4 - Frequently",
+          "notes": "She consistently shows interest for completly understanding the desired outcome, asking for clarifications until everything is clear.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "6. As members of teams that depend on people and technology, there is a never ending supply of flaws, gaps, and items to be improved. While constructive criticism is valuable, much more valuable are the solutions that address those issues. When identifying problems or challenges, rather than simply complaining about them, our Colleague is solution oriented, seeking to identify and implement solutions that generate value for the client, the team, or QC..",
+          "review": "",
+          "notes": "Cannot evaluate",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "7. Maximizing value for the team depends on the team’s ability to quickly and efficiently explore a diversity of approaches and solutions. When faced with unfamiliar options or approaches, our colleague does not dismiss them easily or just because they were thought of by someone else, but rather seeks to understand and improve when appropriate.",
+          "review": "4 - Frequently",
+          "notes": "She is always open to suggestions/ideas and does not dismiss any of those. Analysed scenario: code refactoring and optimisation: React Only (props) - Context - Redux",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "8. Our colleague is ever mindful of commitments that have been made, either by them personally or by their team. This colleague goes above and beyond their normal efforts when necessary in order to honor those commitments.",
+          "review": "4 - Frequently",
+          "notes": "She invests a lot of time and effort into providing desired solutions, even if there isn't a strict deadline",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "9. Our Colleague’s team members know that they can depend and rely on him/her to expend all reasonable efforts in order to honor the commitments that have been made.",
+          "review": "",
+          "notes": "Cannot evaluate",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "10. When the team or their fellow team members are facing a challenge (e.g. operational, deadline, technical) our Colleague proactively seeks to understand how they can help or support in overcoming the challenge.",
+          "review": "",
+          "notes": "Cannot evaluate, even though she expressed her desire to start working on a real-life project",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "11. When faced with a circumstance where our Colleague disagrees with a decision made by the client, a team member, or their manager, our Colleague can constructively disagree, and commit to the decision with which they disagree, and then actively work to support a successful outcome for that decision.",
+          "review": "",
+          "notes": "Currently she was on a mentee track, meaning that there waren't any disagree and commit scenarios.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "12. Our colleague notices when their less experienced team members might be struggling with new concepts or tasks and proactively offers coaching or guidance.",
+          "review": "",
+          "notes": "Cannot evaluate",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "13. When approached by a team member for guidance or assistance, our Colleague readily and enthusiastically renders such assistance.",
+          "review": "",
+          "notes": "Cannot evaluate",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "14. Our Colleague proactively seeks available opportunities (either within QC or outside of QC) to further develop their professional skills. These opportunities might include professional certifications, classes (online or in person), public speaking opportunities, etc.",
+          "review": "3 - Sometimes",
+          "notes": "She is on tha path of learning front-end development, going through pre-assigned courses. Once she'll get familiar with the entire domain I'll like to see more proactiveness in choosing compentences she'll want to improve",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "15. Our Colleague proactively seeks to share their unique skills or knowledge within either their immediate team or the broader QC community. This may include such behaviors as sharing articles of professional interest that are relevant to the QC community, speaking at internal QC events, or seeking to advance a community of like minded practitioners of their craft within the QC community.",
+          "review": "",
+          "notes": "Cannot evaluate",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "16. Our Colleague actively seeks as well as constructively receives feedback regarding their performance, behavior, and interactions with their immediate team. When presented with both negative and positive feedback, our Colleague strives to understand the feedback and identify opportunities for improvement. Our Colleague does not get defensive or act to criticize the provider of feedback.",
+          "review": "4 - Frequently",
+          "notes": "She understands the importance of provided feedback (positive or negative) and receives it in an constructive manner.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "17. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in INTERNAL team or QC settings.",
+          "review": "4 - Frequently",
+          "notes": "She tries to provide clear context to any topic, discussion.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "18. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in CLIENT facing or more formal EXTERNAL situations.  These will likely include daily standups, client product demos, etc.",
+          "review": "",
+          "notes": "Cannot evaluate",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "19. Good communications are essential for creating visibility and understanding in any client service business or any environment where other team members depend on our efforts.  Our Colleague proactively seeks to communicate the amount of information that is necessary and sufficient to create this visibility both for their team and the Client. This includes the timely communication of the current status of their efforts upon the team's behalf, their availability during business hours, and any obstacles where they may need support in order to be successful in their respective role.",
+          "review": "",
+          "notes": "Cannot evaluate",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "20. In teams of varied personalities and backgrounds, it is inevitable that team members may disagree or conflict on issues of substance or personality.  Our Colleague navigates conflict situations constructively and understands how to defuse situations without letting them become personal. This includes the consistent ability to communicate a negative message (“I disagree with you for X reasons”) while maintaining a personal respect for their team mate and their role.",
+          "review": "",
+          "notes": "Cannot evaluate",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8ff081d2-45df-465a-b4f4-6d3726d7e9f6",
+    "firstName": "Corina",
+    "lastName": "Cioloca",
+    "reviewSessions": {
+      "2022-08-14T21:00:00.000Z": [
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "1. Our colleague creates value for their Team at a level consistent with their seniority level (Junior / Intermediate / Senior / Technical Lead / Technical Manager)",
+          "review": "5 - Consistently exceeds expectations",
+          "notes": "Great and advanced UI skils.\nCan easely provide solid solutions for any challange presented.\n\n+ context switching",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "2. Our colleague proactively seeks to understand, apply and comply with industry standards that the Team has agreed to, to their work. This may be evidenced by seeking guidance from more senior members of their team, reading relevant materials, attending conferences, enrolling in training and certifications, etc.",
+          "review": "4 - Frequently",
+          "notes": "She's proactively does research on industry standards and best practices and offers support for her team \n\nenhance UI skills + AWS + desire towards technical doccumentation",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "3. As a technology and engineering organization, we depend on the consistent application of agreed methodologies of work in collaboration with our clients (e.g.: agile scrum) in order to efficiently and reliably meet our commitments with a high standard of quality. Our colleague proactively seeks to understand these processes in collaboration with our client and perform their role in adherence to these processes/ methodologies.",
+          "review": "4 - Frequently",
+          "notes": "Consistent.\n\nShe's a good \"inspector\" of the process, providing feedback and improvements",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "4. At varying times, the client may seek to optimize for short term speed vs. long term efficiency. A pragmatic colleague understands this context at all times and strives to adapt their approach and mindset according to our customers current needs. For each unit of work (feature or task), our colleague seeks to understand where on the speed-to-efficiency continuum they should adapt their work so that they can best adapt their solution to the client’s current needs. Within these constraints, our colleague continually seeks the solutions that avoid unnecessary complexity.",
+          "review": "5 - Always",
+          "notes": "She is great at understanding the client's needs, paying attention to details.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "5. As members of product engineering teams, we cannot be successful in creating value for our teams and our clients unless we understand the source and definition of that value. For each unit of work (feature or task), our colleague proactively seeks to clarify requirements and tasks as well as seeking to understand acceptance criteria or the desired outcome.",
+          "review": "5 - Always",
+          "notes": "She constantly makes sure requirements are clear, for each unit of work",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "6. As members of teams that depend on people and technology, there is a never ending supply of flaws, gaps, and items to be improved. While constructive criticism is valuable, much more valuable are the solutions that address those issues. When identifying problems or challenges, rather than simply complaining about them, our Colleague is solution oriented, seeking to identify and implement solutions that generate value for the client, the team, or QC..",
+          "review": "5 - Always",
+          "notes": "Always solution oriented as an individual and she pushes the team to perform smarter and offers ideas for how to make the team and our work more effective. \n\nMapshots",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "7. Maximizing value for the team depends on the team’s ability to quickly and efficiently explore a diversity of approaches and solutions. When faced with unfamiliar options or approaches, our colleague does not dismiss them easily or just because they were thought of by someone else, but rather seeks to understand and improve when appropriate.",
+          "review": "4 - Frequently",
+          "notes": "She is very open to unfamiliar approaches and embraces working on such work.\n\nShe knows she’s skilled and exercises that when she sees the chance, adding value to the product\n\nMM, xPod",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "8. Our colleague is ever mindful of commitments that have been made, either by them personally or by their team. This colleague goes above and beyond their normal efforts when necessary in order to honor those commitments.",
+          "review": "5 - Always",
+          "notes": "No change",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "9. Our Colleague’s team members know that they can depend and rely on him/her to expend all reasonable efforts in order to honor the commitments that have been made.",
+          "review": "5 - Always",
+          "notes": "No change",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "10. When the team or their fellow team members are facing a challenge (e.g. operational, deadline, technical) our Colleague proactively seeks to understand how they can help or support in overcoming the challenge.",
+          "review": "4 - Frequently",
+          "notes": "Consistent.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "11. When faced with a circumstance where our Colleague disagrees with a decision made by the client, a team member, or their manager, our Colleague can constructively disagree, and commit to the decision with which they disagree, and then actively work to support a successful outcome for that decision.",
+          "review": "4 - Frequently",
+          "notes": "When it comes to disagreements, she can commit to the decision made and successfully support it, but before that she makes sure that the solution was carefully analysed, providing a high quality increment",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "12. Our colleague notices when their less experienced team members might be struggling with new concepts or tasks and proactively offers coaching or guidance.",
+          "review": "4 - Frequently",
+          "notes": "She also has the patience to offer good support, know how when someone is struggling at certain topics",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "13. When approached by a team member for guidance or assistance, our Colleague readily and enthusiastically renders such assistance.",
+          "review": "5 - Always",
+          "notes": "Always open to help others",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "14. Our Colleague proactively seeks available opportunities (either within QC or outside of QC) to further develop their professional skills. These opportunities might include professional certifications, classes (online or in person), public speaking opportunities, etc.",
+          "review": "4 - Frequently",
+          "notes": "She openly addressed extending her professional skills, filling in knowledge gaps outside her area of expertise",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "15. Our Colleague proactively seeks to share their unique skills or knowledge within either their immediate team or the broader QC community. This may include such behaviors as sharing articles of professional interest that are relevant to the QC community, speaking at internal QC events, or seeking to advance a community of like minded practitioners of their craft within the QC community.",
+          "review": "3 - Sometimes",
+          "notes": "Consistent. Would like her to share more of her knwowledge, having a valuable knowledge package",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "16. Our Colleague actively seeks as well as constructively receives feedback regarding their performance, behavior, and interactions with their immediate team. When presented with both negative and positive feedback, our Colleague strives to understand the feedback and identify opportunities for improvement. Our Colleague does not get defensive or act to criticize the provider of feedback.",
+          "review": "4 - Frequently",
+          "notes": "She's contantly open to constructive feedback targeted toward her profesional growth, even when discussing about areas outside her current expertise",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "17. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in INTERNAL team or QC settings.",
+          "review": "4 - Frequently",
+          "notes": "No change",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "18. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in CLIENT facing or more formal EXTERNAL situations.  These will likely include daily standups, client product demos, etc.",
+          "review": "4 - Frequently",
+          "notes": "No change",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "19. Good communications are essential for creating visibility and understanding in any client service business or any environment where other team members depend on our efforts.  Our Colleague proactively seeks to communicate the amount of information that is necessary and sufficient to create this visibility both for their team and the Client. This includes the timely communication of the current status of their efforts upon the team's behalf, their availability during business hours, and any obstacles where they may need support in order to be successful in their respective role.",
+          "review": "5 - Always",
+          "notes": "She’s great at describing her work and presenting to groups.Mapshots",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "20. In teams of varied personalities and backgrounds, it is inevitable that team members may disagree or conflict on issues of substance or personality.  Our Colleague navigates conflict situations constructively and understands how to defuse situations without letting them become personal. This includes the consistent ability to communicate a negative message (“I disagree with you for X reasons”) while maintaining a personal respect for their team mate and their role.",
+          "review": "3 - Sometimes",
+          "notes": "Sometimes her reactions may not be perceived that well, especially for peaople out of context.\n\nWhen dealing with conflicts or disagreements, she may take things to personal, which can escalade the conflict",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        }
+      ],
+      "2021-12-14T22:00:00.000Z": [
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "1. Our colleague creates value for their Team at a level consistent with their seniority level (Junior / Intermediate / Senior / Technical Lead / Technical Manager)",
+          "review": "5 - Consistently exceeds expectations",
+          "notes": "Consistent in this, demonstrates constantly that she is always ready for all the technical challenges she is facing not only on activities related with the projects that is constantly working on but also with unpredicted activities.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "2. Our colleague proactively seeks to understand, apply and comply with industry standards that the Team has agreed to, to their work. This may be evidenced by seeking guidance from more senior members of their team, reading relevant materials, attending conferences, enrolling in training and certifications, etc.",
+          "review": "4 - Frequently",
+          "notes": "She made improvements on proactivity on this topic, asa margin of improvement she needs to work a little bit more on finding training opportunities or certifications.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "3. As a technology and engineering organization, we depend on the consistent application of agreed methodologies of work in collaboration with our clients (e.g.: agile scrum) in order to efficiently and reliably meet our commitments with a high standard of quality. Our colleague proactively seeks to understand these processes in collaboration with our client and perform their role in adherence to these processes/ methodologies.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "4. At varying times, the client may seek to optimize for short term speed vs. long term efficiency. A pragmatic colleague understands this context at all times and strives to adapt their approach and mindset according to our customers current needs. For each unit of work (feature or task), our colleague seeks to understand where on the speed-to-efficiency continuum they should adapt their work so that they can best adapt their solution to the client’s current needs. Within these constraints, our colleague continually seeks the solutions that avoid unnecessary complexity.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "5. As members of product engineering teams, we cannot be successful in creating value for our teams and our clients unless we understand the source and definition of that value. For each unit of work (feature or task), our colleague proactively seeks to clarify requirements and tasks as well as seeking to understand acceptance criteria or the desired outcome.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "6. As members of teams that depend on people and technology, there is a never ending supply of flaws, gaps, and items to be improved. While constructive criticism is valuable, much more valuable are the solutions that address those issues. When identifying problems or challenges, rather than simply complaining about them, our Colleague is solution oriented, seeking to identify and implement solutions that generate value for the client, the team, or QC..",
+          "review": "4 - Frequently",
+          "notes": "Consistent, still needs to improve her involvement in the more complex technical debates",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "7. Maximizing value for the team depends on the team’s ability to quickly and efficiently explore a diversity of approaches and solutions. When faced with unfamiliar options or approaches, our colleague does not dismiss them easily or just because they were thought of by someone else, but rather seeks to understand and improve when appropriate.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "8. Our colleague is ever mindful of commitments that have been made, either by them personally or by their team. This colleague goes above and beyond their normal efforts when necessary in order to honor those commitments.",
+          "review": "5 - Always",
+          "notes": "Consistent ++",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "9. Our Colleague’s team members know that they can depend and rely on him/her to expend all reasonable efforts in order to honor the commitments that have been made.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "10. When the team or their fellow team members are facing a challenge (e.g. operational, deadline, technical) our Colleague proactively seeks to understand how they can help or support in overcoming the challenge.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "11. When faced with a circumstance where our Colleague disagrees with a decision made by the client, a team member, or their manager, our Colleague can constructively disagree, and commit to the decision with which they disagree, and then actively work to support a successful outcome for that decision.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "12. Our colleague notices when their less experienced team members might be struggling with new concepts or tasks and proactively offers coaching or guidance.",
+          "review": "4 - Frequently",
+          "notes": "This happened frequently with the less experienced developers that contributed on ngsui, needs to improve more on coaching approaches and techniques",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "13. When approached by a team member for guidance or assistance, our Colleague readily and enthusiastically renders such assistance.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "14. Our Colleague proactively seeks available opportunities (either within QC or outside of QC) to further develop their professional skills. These opportunities might include professional certifications, classes (online or in person), public speaking opportunities, etc.",
+          "review": "3 - Sometimes",
+          "notes": "Improved but still needs to create more opportunities for developing her professional skills",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "15. Our Colleague proactively seeks to share their unique skills or knowledge within either their immediate team or the broader QC community. This may include such behaviors as sharing articles of professional interest that are relevant to the QC community, speaking at internal QC events, or seeking to advance a community of like minded practitioners of their craft within the QC community.",
+          "review": "3 - Sometimes",
+          "notes": "Does it when needed still needs to work on proactivity",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "16. Our Colleague actively seeks as well as constructively receives feedback regarding their performance, behavior, and interactions with their immediate team. When presented with both negative and positive feedback, our Colleague strives to understand the feedback and identify opportunities for improvement. Our Colleague does not get defensive or act to criticize the provider of feedback.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "17. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in INTERNAL team or QC settings.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "18. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in CLIENT facing or more formal EXTERNAL situations.  These will likely include daily standups, client product demos, etc.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "19. Good communications are essential for creating visibility and understanding in any client service business or any environment where other team members depend on our efforts.  Our Colleague proactively seeks to communicate the amount of information that is necessary and sufficient to create this visibility both for their team and the Client. This includes the timely communication of the current status of their efforts upon the team's behalf, their availability during business hours, and any obstacles where they may need support in order to be successful in their respective role.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "20. In teams of varied personalities and backgrounds, it is inevitable that team members may disagree or conflict on issues of substance or personality.  Our Colleague navigates conflict situations constructively and understands how to defuse situations without letting them become personal. This includes the consistent ability to communicate a negative message (“I disagree with you for X reasons”) while maintaining a personal respect for their team mate and their role.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        }
+      ],
+      "2021-06-14T21:00:00.000Z": [
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "1. Our colleague creates value for their Team at a level consistent with their seniority level (Junior / Intermediate / Senior / Technical Lead / Technical Manager)",
+          "review": "5 - Consistently exceeds expectations",
+          "notes": "Corina is a key contributor for delivering value not only on Geopod Team but also outside of it, NGSUI etc. , she is constantly pushing the expectations boundaries in terms of value delivery by taking ownership and pushing independently forward de development, requirements clarification, planning and other activities that she sees value in them and she can contribute in order to be delivered in a timely manner.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "2. Our colleague proactively seeks to understand, apply and comply with industry standards that the Team has agreed to, to their work. This may be evidenced by seeking guidance from more senior members of their team, reading relevant materials, attending conferences, enrolling in training and certifications, etc.",
+          "review": "3 - Sometimes",
+          "notes": "She is always having a very good understanding of standards approached by the team and doesn't have difficulties on applying them, on an improvement note she needs to improve a little bin on the proactivity side where she needs to research/study more industry standards and challenge more the solutions that needs improvements etc.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "3. As a technology and engineering organization, we depend on the consistent application of agreed methodologies of work in collaboration with our clients (e.g.: agile scrum) in order to efficiently and reliably meet our commitments with a high standard of quality. Our colleague proactively seeks to understand these processes in collaboration with our client and perform their role in adherence to these processes/ methodologies.",
+          "review": "4 - Frequently",
+          "notes": "Corina is a constant advocate for process improvement and the correct usage of the agile methodology that we are using, she provides always relevant feedback in improvements ideas about the process but more than this she is always also paying attention about the progress of the improvements we discussed and agreed to work on as a team.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "4. At varying times, the client may seek to optimize for short term speed vs. long term efficiency. A pragmatic colleague understands this context at all times and strives to adapt their approach and mindset according to our customers current needs. For each unit of work (feature or task), our colleague seeks to understand where on the speed-to-efficiency continuum they should adapt their work so that they can best adapt their solution to the client’s current needs. Within these constraints, our colleague continually seeks the solutions that avoid unnecessary complexity.",
+          "review": "5 - Always",
+          "notes": "Corina is appreciated by the entire team for her pragmatism and independence on understanding the client needs and optimising for speed-to-efficiency but always keeping an eye on the quality of the solutions and they evolution in time.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "5. As members of product engineering teams, we cannot be successful in creating value for our teams and our clients unless we understand the source and definition of that value. For each unit of work (feature or task), our colleague proactively seeks to clarify requirements and tasks as well as seeking to understand acceptance criteria or the desired outcome.",
+          "review": "5 - Always",
+          "notes": "Clarifying requirements where they are not clear or complete is an activity that Corina is doing constantly and is able to do this without any support arriving always to a clear understanding of the problem to be resolved, more that this where is no support or lack of informations she compensates by writing requirements or acceptance criteria in order to move forward.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "6. As members of teams that depend on people and technology, there is a never ending supply of flaws, gaps, and items to be improved. While constructive criticism is valuable, much more valuable are the solutions that address those issues. When identifying problems or challenges, rather than simply complaining about them, our Colleague is solution oriented, seeking to identify and implement solutions that generate value for the client, the team, or QC..",
+          "review": "4 - Frequently",
+          "notes": "Constantly having constructive debates on the solutions, as an improvement idea a slightly more initiative and involvement in solutions debates will bring her to the next level.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "7. Maximizing value for the team depends on the team’s ability to quickly and efficiently explore a diversity of approaches and solutions. When faced with unfamiliar options or approaches, our colleague does not dismiss them easily or just because they were thought of by someone else, but rather seeks to understand and improve when appropriate.",
+          "review": "4 - Frequently",
+          "notes": "We have learned during the last period of time that Corina handles very well the unfamiliar solutions, technologies or approaches she has a very good capacity of researching/learning/understanding them and she doesn't dismiss easily because they are harder or thought by someone else. She can improve here by exposing herself even more to similar situations.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "8. Our colleague is ever mindful of commitments that have been made, either by them personally or by their team. This colleague goes above and beyond their normal efforts when necessary in order to honor those commitments.",
+          "review": "5 - Always",
+          "notes": "Always mindful of team commitments, and in her case not only team commitments but more than that, is constantly going above and beyond and as example we need to consider the constant workload that she is handling in both Geopod and NGSUI",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "9. Our Colleague’s team members know that they can depend and rely on him/her to expend all reasonable efforts in order to honor the commitments that have been made.",
+          "review": "5 - Always",
+          "notes": "This is something that was noticed and provided as feedback by all the team members, the fact that everybody can rely on her in order to honor the commitments that were made by the team.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "10. When the team or their fellow team members are facing a challenge (e.g. operational, deadline, technical) our Colleague proactively seeks to understand how they can help or support in overcoming the challenge.",
+          "review": "4 - Frequently",
+          "notes": "Constantly available for helping the others, not only by being available but also by having independent initiatives for helping them",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "11. When faced with a circumstance where our Colleague disagrees with a decision made by the client, a team member, or their manager, our Colleague can constructively disagree, and commit to the decision with which they disagree, and then actively work to support a successful outcome for that decision.",
+          "review": "4 - Frequently",
+          "notes": "Didn't have situations in which Corina was not able to disagree and commit, as a matter a fact I would like to have more situations/initiatives in which she disagrees technically in order to stimulate more constructive discussions",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "12. Our colleague notices when their less experienced team members might be struggling with new concepts or tasks and proactively offers coaching or guidance.",
+          "review": "3 - Sometimes",
+          "notes": "This is an area that she is doing well bu she needs to do this more proactively and try more coaching less experienced colleagues because she can share a lot with them in terms of solutions, approaches, etc. and will also develop her abilities for a future role.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "13. When approached by a team member for guidance or assistance, our Colleague readily and enthusiastically renders such assistance.",
+          "review": "4 - Frequently",
+          "notes": "Constantly available for assisting others",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "14. Our Colleague proactively seeks available opportunities (either within QC or outside of QC) to further develop their professional skills. These opportunities might include professional certifications, classes (online or in person), public speaking opportunities, etc.",
+          "review": "2 - Rarely",
+          "notes": "This is something that we have discussed constantly during the last 6 months, is an area that she compromised on in order sustain the amount of work she was committing for all the projects she was involved in. She is having great capabilities of learning in stepping up in terms of skills  and experience and she demonstrated this in the last period when she was exposed to tasks that required her to learn more but we need to find a way that gives her opportunities to learn and develop not only the tasks are requiring it.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "15. Our Colleague proactively seeks to share their unique skills or knowledge within either their immediate team or the broader QC community. This may include such behaviors as sharing articles of professional interest that are relevant to the QC community, speaking at internal QC events, or seeking to advance a community of like minded practitioners of their craft within the QC community.",
+          "review": "3 - Sometimes",
+          "notes": "When needed she is doing it but need to be more proactive on this considering the fact that she has a lot to share with others.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "16. Our Colleague actively seeks as well as constructively receives feedback regarding their performance, behavior, and interactions with their immediate team. When presented with both negative and positive feedback, our Colleague strives to understand the feedback and identify opportunities for improvement. Our Colleague does not get defensive or act to criticize the provider of feedback.",
+          "review": "4 - Frequently",
+          "notes": "Didn't have any situation in which Corina was defensive or critic on the feedback she was receiving, she can improve on seeking more opportunities for personal improvement",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "17. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in INTERNAL team or QC settings.",
+          "review": "4 - Frequently",
+          "notes": "Constantly communicating effectively",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "18. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in CLIENT facing or more formal EXTERNAL situations.  These will likely include daily standups, client product demos, etc.",
+          "review": "4 - Frequently",
+          "notes": "Constantly communicating effectively, an improvement area would be be more proactive on improving her skills/or seeking more opportunities  for writing technical documentation.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "19. Good communications are essential for creating visibility and understanding in any client service business or any environment where other team members depend on our efforts.  Our Colleague proactively seeks to communicate the amount of information that is necessary and sufficient to create this visibility both for their team and the Client. This includes the timely communication of the current status of their efforts upon the team's behalf, their availability during business hours, and any obstacles where they may need support in order to be successful in their respective role.",
+          "review": "5 - Always",
+          "notes": "This is something that Corina does very well with the team and the Client.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "20. In teams of varied personalities and backgrounds, it is inevitable that team members may disagree or conflict on issues of substance or personality.  Our Colleague navigates conflict situations constructively and understands how to defuse situations without letting them become personal. This includes the consistent ability to communicate a negative message (“I disagree with you for X reasons”) while maintaining a personal respect for their team mate and their role.",
+          "review": "4 - Frequently",
+          "notes": "We didn't encounter conflicts in the last period that was not handled constructively or well by Corina. She is always treating the others with respect.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b7857540-799b-4c48-b4cd-4375332fd282",
+    "firstName": "Matei",
+    "lastName": "Pintilie",
+    "reviewSessions": {
+      "2022-08-14T21:00:00.000Z": [
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "1. Our colleague creates value for their Team at a level consistent with their seniority level (Junior / Intermediate / Senior / Technical Lead / Technical Manager)",
+          "review": "5 - Consistently exceeds expectations",
+          "notes": "He's learning at 300% \n\nHis main focus is to create value and quality for each unit of work he's working on.\n\nThis goes beyond his normal day to day duties, diving into the DevOps territory.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "2. Our colleague proactively seeks to understand, apply and comply with industry standards that the Team has agreed to, to their work. This may be evidenced by seeking guidance from more senior members of their team, reading relevant materials, attending conferences, enrolling in training and certifications, etc.",
+          "review": "4 - Frequently",
+          "notes": "Matei is investing a lot in complying and most of all UNDERSTANDING agreed industry standards and their needs.\n\nHe's interested and readyng tech related materials, EVEN AS A HOBBY.\n\nMay need to be encouraged towards certifications ???",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "3. As a technology and engineering organization, we depend on the consistent application of agreed methodologies of work in collaboration with our clients (e.g.: agile scrum) in order to efficiently and reliably meet our commitments with a high standard of quality. Our colleague proactively seeks to understand these processes in collaboration with our client and perform their role in adherence to these processes/ methodologies.",
+          "review": "4 - Frequently",
+          "notes": "Good application of the SCRUM framework. \n\nHe recently invested time to learn and further understand the SCRUM framework.\n\nHe has the desire to be a to do everything perfect. There are scenarios sometimes when there is a lack of transparency, extending his work beyound requirements or skipping certain release processes.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "4. At varying times, the client may seek to optimize for short term speed vs. long term efficiency. A pragmatic colleague understands this context at all times and strives to adapt their approach and mindset according to our customers current needs. For each unit of work (feature or task), our colleague seeks to understand where on the speed-to-efficiency continuum they should adapt their work so that they can best adapt their solution to the client’s current needs. Within these constraints, our colleague continually seeks the solutions that avoid unnecessary complexity.",
+          "review": "4 - Frequently",
+          "notes": "Most of the time he understand the client's needs and constraints and adapts his implementations.\n\nWhen there is more freedom, he's sometimes getting lost in thinking ahead, which could lead into to much complexity.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "5. As members of product engineering teams, we cannot be successful in creating value for our teams and our clients unless we understand the source and definition of that value. For each unit of work (feature or task), our colleague proactively seeks to clarify requirements and tasks as well as seeking to understand acceptance criteria or the desired outcome.",
+          "review": "4 - Frequently",
+          "notes": "Matei is frequently trying to clarify requirements that are not clear or he doesn't understand.\n\nSometimes he needs to be checked to focus only on the desired outcome and to not expand into other implementations.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "6. As members of teams that depend on people and technology, there is a never ending supply of flaws, gaps, and items to be improved. While constructive criticism is valuable, much more valuable are the solutions that address those issues. When identifying problems or challenges, rather than simply complaining about them, our Colleague is solution oriented, seeking to identify and implement solutions that generate value for the client, the team, or QC..",
+          "review": "5 - Always",
+          "notes": "No change",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "7. Maximizing value for the team depends on the team’s ability to quickly and efficiently explore a diversity of approaches and solutions. When faced with unfamiliar options or approaches, our colleague does not dismiss them easily or just because they were thought of by someone else, but rather seeks to understand and improve when appropriate.",
+          "review": "5 - Always",
+          "notes": "He treats unfamiliar approaches with enthuziasm and is constantly seekeing opportonuties to improve his working experience.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "8. Our colleague is ever mindful of commitments that have been made, either by them personally or by their team. This colleague goes above and beyond their normal efforts when necessary in order to honor those commitments.",
+          "review": "4 - Frequently",
+          "notes": "Matei constantly honors his commitments. He has an interesting structure where for each unit of work he organises a \"to do list\" and carefully makes sure everything is checked",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "9. Our Colleague’s team members know that they can depend and rely on him/her to expend all reasonable efforts in order to honor the commitments that have been made.",
+          "review": "4 - Frequently",
+          "notes": "He's a reliable person who offers his help honoring commitments",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "10. When the team or their fellow team members are facing a challenge (e.g. operational, deadline, technical) our Colleague proactively seeks to understand how they can help or support in overcoming the challenge.",
+          "review": "5 - Always",
+          "notes": "He's always a helping hand, getting involved and oferring support in areas outside his area. FunPod \"dead time\" - asking other teams to help :)",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "11. When faced with a circumstance where our Colleague disagrees with a decision made by the client, a team member, or their manager, our Colleague can constructively disagree, and commit to the decision with which they disagree, and then actively work to support a successful outcome for that decision.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "13. When approached by a team member for guidance or assistance, our Colleague readily and enthusiastically renders such assistance.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "14. Our Colleague proactively seeks available opportunities (either within QC or outside of QC) to further develop their professional skills. These opportunities might include professional certifications, classes (online or in person), public speaking opportunities, etc.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "15. Our Colleague proactively seeks to share their unique skills or knowledge within either their immediate team or the broader QC community. This may include such behaviors as sharing articles of professional interest that are relevant to the QC community, speaking at internal QC events, or seeking to advance a community of like minded practitioners of their craft within the QC community.",
+          "review": "3 - Sometimes",
+          "notes": "Internally, in more direct conversations (1:1s) he constantly opens discussions regarding any new knowledge learned. \n\nRecently he also had a cool approach of starting an open discussion with the QC community, targeted toward clarifying some of his knowledge gaps",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "16. Our Colleague actively seeks as well as constructively receives feedback regarding their performance, behavior, and interactions with their immediate team. When presented with both negative and positive feedback, our Colleague strives to understand the feedback and identify opportunities for improvement. Our Colleague does not get defensive or act to criticize the provider of feedback.",
+          "review": "5 - Always",
+          "notes": "He understands the importance of provided feedback (positive or negative) and receives it in an constructive manner.\n\nThe suggested improvements can also be reflected immediatly in Matei's work",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "17. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in INTERNAL team or QC settings.",
+          "review": "4 - Frequently",
+          "notes": "He started to be more effective during internal team meetings, being more organised and understanding certain time box limitations. Open to more private directed discussions",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "18. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in CLIENT facing or more formal EXTERNAL situations.  These will likely include daily standups, client product demos, etc.",
+          "review": "4 - Frequently",
+          "notes": "Good communication skills. \n\nVery high technical comprehension, failing sometimes to stay on point.\n\nSometimes it would be great to understand the audience he's discussing with and try to adapt the discussion accordingly, especially when discussing technical solutions with the client. \n\n\"Matei, mai respira",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "19. Good communications are essential for creating visibility and understanding in any client service business or any environment where other team members depend on our efforts.  Our Colleague proactively seeks to communicate the amount of information that is necessary and sufficient to create this visibility both for their team and the Client. This includes the timely communication of the current status of their efforts upon the team's behalf, their availability during business hours, and any obstacles where they may need support in order to be successful in their respective role.",
+          "review": "4 - Frequently",
+          "notes": "Good and effective. \n\nProactive and a good communication discipline when facing obstacles.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "20. In teams of varied personalities and backgrounds, it is inevitable that team members may disagree or conflict on issues of substance or personality.  Our Colleague navigates conflict situations constructively and understands how to defuse situations without letting them become personal. This includes the consistent ability to communicate a negative message (“I disagree with you for X reasons”) while maintaining a personal respect for their team mate and their role.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        }
+      ],
+      "2021-12-14T22:00:00.000Z": [
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "1. Our colleague creates value for their Team at a level consistent with their seniority level (Junior / Intermediate / Senior / Technical Lead / Technical Manager)",
+          "review": "5 - Consistently exceeds expectations",
+          "notes": "Constantly exceeds expectations for a junior, he was able to take full ownership of Mapmaker api after Daniel was left and not only maintaned properly but also pushed forward the improvements and also was able to deliver complex solutions for improving the api services, for example the autoscaling solution thta was fully implemented by him and also managed the interraction with devops team etc. All this happened with a small amount of guidance",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "2. Our colleague proactively seeks to understand, apply and comply with industry standards that the Team has agreed to, to their work. This may be evidenced by seeking guidance from more senior members of their team, reading relevant materials, attending conferences, enrolling in training and certifications, etc.",
+          "review": "4 - Frequently",
+          "notes": "Respect to the initial period Matei learned and applied a different approach of developing qualitative solutions by being more focused on industry standards.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "3. As a technology and engineering organization, we depend on the consistent application of agreed methodologies of work in collaboration with our clients (e.g.: agile scrum) in order to efficiently and reliably meet our commitments with a high standard of quality. Our colleague proactively seeks to understand these processes in collaboration with our client and perform their role in adherence to these processes/ methodologies.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "4. At varying times, the client may seek to optimize for short term speed vs. long term efficiency. A pragmatic colleague understands this context at all times and strives to adapt their approach and mindset according to our customers current needs. For each unit of work (feature or task), our colleague seeks to understand where on the speed-to-efficiency continuum they should adapt their work so that they can best adapt their solution to the client’s current needs. Within these constraints, our colleague continually seeks the solutions that avoid unnecessary complexity.",
+          "review": "4 - Frequently",
+          "notes": "He improved his experience and as a result his decisions were better, more than this he learned and applied better divide and conquer remained more focused on the things to be resolved",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "5. As members of product engineering teams, we cannot be successful in creating value for our teams and our clients unless we understand the source and definition of that value. For each unit of work (feature or task), our colleague proactively seeks to clarify requirements and tasks as well as seeking to understand acceptance criteria or the desired outcome.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "6. As members of teams that depend on people and technology, there is a never ending supply of flaws, gaps, and items to be improved. While constructive criticism is valuable, much more valuable are the solutions that address those issues. When identifying problems or challenges, rather than simply complaining about them, our Colleague is solution oriented, seeking to identify and implement solutions that generate value for the client, the team, or QC..",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "7. Maximizing value for the team depends on the team’s ability to quickly and efficiently explore a diversity of approaches and solutions. When faced with unfamiliar options or approaches, our colleague does not dismiss them easily or just because they were thought of by someone else, but rather seeks to understand and improve when appropriate.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "8. Our colleague is ever mindful of commitments that have been made, either by them personally or by their team. This colleague goes above and beyond their normal efforts when necessary in order to honor those commitments.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "9. Our Colleague’s team members know that they can depend and rely on him/her to expend all reasonable efforts in order to honor the commitments that have been made.",
+          "review": "4 - Frequently",
+          "notes": "Improved on this aspect by gaining more experience and checking him frequently was nod needed so often as before",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "10. When the team or their fellow team members are facing a challenge (e.g. operational, deadline, technical) our Colleague proactively seeks to understand how they can help or support in overcoming the challenge.",
+          "review": "5 - Always",
+          "notes": "With his experience and role he is always trying to support the others with challenges that they are facing",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "11. When faced with a circumstance where our Colleague disagrees with a decision made by the client, a team member, or their manager, our Colleague can constructively disagree, and commit to the decision with which they disagree, and then actively work to support a successful outcome for that decision.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "12. Our colleague notices when their less experienced team members might be struggling with new concepts or tasks and proactively offers coaching or guidance.",
+          "review": "2 - Rarely",
+          "notes": "Still not exposed to this situation, only ocasionally inside of the team for spot topics that he was only the one havink knowledge and experience.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "13. When approached by a team member for guidance or assistance, our Colleague readily and enthusiastically renders such assistance.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "14. Our Colleague proactively seeks available opportunities (either within QC or outside of QC) to further develop their professional skills. These opportunities might include professional certifications, classes (online or in person), public speaking opportunities, etc.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "15. Our Colleague proactively seeks to share their unique skills or knowledge within either their immediate team or the broader QC community. This may include such behaviors as sharing articles of professional interest that are relevant to the QC community, speaking at internal QC events, or seeking to advance a community of like minded practitioners of their craft within the QC community.",
+          "review": "2 - Rarely",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "16. Our Colleague actively seeks as well as constructively receives feedback regarding their performance, behavior, and interactions with their immediate team. When presented with both negative and positive feedback, our Colleague strives to understand the feedback and identify opportunities for improvement. Our Colleague does not get defensive or act to criticize the provider of feedback.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "17. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in INTERNAL team or QC settings.",
+          "review": "3 - Sometimes",
+          "notes": "Made progress on this topic contributing on the MM api documentation and is also more effective when communicating inside of the team",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "18. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in CLIENT facing or more formal EXTERNAL situations.  These will likely include daily standups, client product demos, etc.",
+          "review": "4 - Frequently",
+          "notes": "Made progress on this topic but some times needs to adapt what he communicates to the audience, tends to go in technical details some time that part of the audience is not interested in or doesn't have the knowledge to understand.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "19. Good communications are essential for creating visibility and understanding in any client service business or any environment where other team members depend on our efforts.  Our Colleague proactively seeks to communicate the amount of information that is necessary and sufficient to create this visibility both for their team and the Client. This includes the timely communication of the current status of their efforts upon the team's behalf, their availability during business hours, and any obstacles where they may need support in order to be successful in their respective role.",
+          "review": "4 - Frequently",
+          "notes": "Improved on this topic by being more focused on communication and not deviating into wider topics",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "20. In teams of varied personalities and backgrounds, it is inevitable that team members may disagree or conflict on issues of substance or personality.  Our Colleague navigates conflict situations constructively and understands how to defuse situations without letting them become personal. This includes the consistent ability to communicate a negative message (“I disagree with you for X reasons”) while maintaining a personal respect for their team mate and their role.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        }
+      ],
+      "2021-06-14T21:00:00.000Z": [
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "1. Our colleague creates value for their Team at a level consistent with their seniority level (Junior / Intermediate / Senior / Technical Lead / Technical Manager)",
+          "review": "4 - Occasionally exceeds expectations",
+          "notes": "As a junior developer Matei had a quick ramp-up on our project and the technologies needed for contributing, from the first weeks on the team he was eager to work on the project and deliver new features, from time to time we actually needed to hold him back from this in order to focus him more towards learning and consolidating his skills more in order to deliver even more value in the future.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "2. Our colleague proactively seeks to understand, apply and comply with industry standards that the Team has agreed to, to their work. This may be evidenced by seeking guidance from more senior members of their team, reading relevant materials, attending conferences, enrolling in training and certifications, etc.",
+          "review": "2 - Rarely",
+          "notes": "This is an aspect that when Matei joined didn't have it at all but we have started to work on it and was starting to improve on this, still needs to work on to have more initiative and learn more about it but but is starting to improve in this direction.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "3. As a technology and engineering organization, we depend on the consistent application of agreed methodologies of work in collaboration with our clients (e.g.: agile scrum) in order to efficiently and reliably meet our commitments with a high standard of quality. Our colleague proactively seeks to understand these processes in collaboration with our client and perform their role in adherence to these processes/ methodologies.",
+          "review": "4 - Frequently",
+          "notes": "He has adopted very quick out process and way of working, is frequently manifesting interest and is trying to understand more about the process and methodology where doesn't have experience or knowledge.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "4. At varying times, the client may seek to optimize for short term speed vs. long term efficiency. A pragmatic colleague understands this context at all times and strives to adapt their approach and mindset according to our customers current needs. For each unit of work (feature or task), our colleague seeks to understand where on the speed-to-efficiency continuum they should adapt their work so that they can best adapt their solution to the client’s current needs. Within these constraints, our colleague continually seeks the solutions that avoid unnecessary complexity.",
+          "review": "3 - Sometimes",
+          "notes": "Even if he is always seeking for this kind of optimisations his lack of experience and approaches he was used with on previous jobs he is frequently getting lost in thinking at too many problems in the same time or thinking too far away from the actual needs and this requires some time interventions for helping him understand this kind of optimisations, we are working on right now with him for getting better at divide and conquer and with more exercise he has the potential to improve on this.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "5. As members of product engineering teams, we cannot be successful in creating value for our teams and our clients unless we understand the source and definition of that value. For each unit of work (feature or task), our colleague proactively seeks to clarify requirements and tasks as well as seeking to understand acceptance criteria or the desired outcome.",
+          "review": "4 - Frequently",
+          "notes": "Matei is frequently trying to clarify requirements that are not clear or he doesn't understand, he only lacks in experience and methods for clarifying them.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "6. As members of teams that depend on people and technology, there is a never ending supply of flaws, gaps, and items to be improved. While constructive criticism is valuable, much more valuable are the solutions that address those issues. When identifying problems or challenges, rather than simply complaining about them, our Colleague is solution oriented, seeking to identify and implement solutions that generate value for the client, the team, or QC..",
+          "review": "5 - Always",
+          "notes": "Didn't encounter till now a situation in which he complained about or didn't try to contribute constructively with his knowledge and experience to a solution.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "7. Maximizing value for the team depends on the team’s ability to quickly and efficiently explore a diversity of approaches and solutions. When faced with unfamiliar options or approaches, our colleague does not dismiss them easily or just because they were thought of by someone else, but rather seeks to understand and improve when appropriate.",
+          "review": "5 - Always",
+          "notes": "Being new in the team and in the same time working with new technologies and methodologies he is frequently exposed with unfamiliar solutions or approaches and is always eager to understand more and learn about them.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "8. Our colleague is ever mindful of commitments that have been made, either by them personally or by their team. This colleague goes above and beyond their normal efforts when necessary in order to honor those commitments.",
+          "review": "4 - Frequently",
+          "notes": "Is frequently pushing himself in order to deliver team commitments or personal commitments, as an improvement he needs to put some structure on his way of working in order to evaluate/understand better where it is at a certain point in time and what is still necessary to be done in order to deliver it.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "9. Our Colleague’s team members know that they can depend and rely on him/her to expend all reasonable efforts in order to honor the commitments that have been made.",
+          "review": "3 - Sometimes",
+          "notes": "We all know in the team that we can rely on him and he will always try to honor his commitments but the team needs to check on him frequently to ensure that he understood well the problems to be resolved or he estimates/understands correctly the work that needs to be done or not to overcomplicate what needs to be done. but this is another aspect that the he is improving fast on it.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "10. When the team or their fellow team members are facing a challenge (e.g. operational, deadline, technical) our Colleague proactively seeks to understand how they can help or support in overcoming the challenge.",
+          "review": "4 - Frequently",
+          "notes": "Constantly offering help or being available for the other ones if needed.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "11. When faced with a circumstance where our Colleague disagrees with a decision made by the client, a team member, or their manager, our Colleague can constructively disagree, and commit to the decision with which they disagree, and then actively work to support a successful outcome for that decision.",
+          "review": "5 - Always",
+          "notes": "Always when facing with contradictory opinions he is committing to the team decisions seeking always to deliver value and learn.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "12. Our colleague notices when their less experienced team members might be struggling with new concepts or tasks and proactively offers coaching or guidance.",
+          "review": "1 - Never",
+          "notes": "Was not exposed to this kind of situations till today in order to evaluate this.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "13. When approached by a team member for guidance or assistance, our Colleague readily and enthusiastically renders such assistance.",
+          "review": "5 - Always",
+          "notes": "Always available when colleagues asked for help.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "14. Our Colleague proactively seeks available opportunities (either within QC or outside of QC) to further develop their professional skills. These opportunities might include professional certifications, classes (online or in person), public speaking opportunities, etc.",
+          "review": "4 - Frequently",
+          "notes": "He is always eager to learn more about the technologies that we are using, trying to expose himself also to more difficult problems in order to have more learning opportunities. On this topic was a little bit difficult at the beginning to shift his working approach towards a more guided/structured learning approach but he understood very fast the value for doing this and he is frequently seeking to learn more and improve/consolidate his skills",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "15. Our Colleague proactively seeks to share their unique skills or knowledge within either their immediate team or the broader QC community. This may include such behaviors as sharing articles of professional interest that are relevant to the QC community, speaking at internal QC events, or seeking to advance a community of like minded practitioners of their craft within the QC community.",
+          "review": "2 - Rarely",
+          "notes": "This is something that he still needs to build some more confidence and more experience in order to have initiatives in this direction.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "16. Our Colleague actively seeks as well as constructively receives feedback regarding their performance, behavior, and interactions with their immediate team. When presented with both negative and positive feedback, our Colleague strives to understand the feedback and identify opportunities for improvement. Our Colleague does not get defensive or act to criticize the provider of feedback.",
+          "review": "5 - Always",
+          "notes": "Matei had a lot to improve regarding technologies, learning approaches, precess etc. and we did a lot of progress during this short period of time and all this progress was mainly based on his ability to be very open and active on seeking any type of feedback by any team members. More than this he understood well what should be done in order to improve and never get defensive in any feedback discussion.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "17. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in INTERNAL team or QC settings.",
+          "review": "2 - Rarely",
+          "notes": "Is enthusiastic on communicating but lacks a little bit on structure and clarity when is communicating. Will also need to improve a little bit more in written communication.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "18. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in CLIENT facing or more formal EXTERNAL situations.  These will likely include daily standups, client product demos, etc.",
+          "review": "3 - Sometimes",
+          "notes": "Similar with previous points but in addition he is able to communicate status or to interact well with the client in meetings etc.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "19. Good communications are essential for creating visibility and understanding in any client service business or any environment where other team members depend on our efforts.  Our Colleague proactively seeks to communicate the amount of information that is necessary and sufficient to create this visibility both for their team and the Client. This includes the timely communication of the current status of their efforts upon the team's behalf, their availability during business hours, and any obstacles where they may need support in order to be successful in their respective role.",
+          "review": "3 - Sometimes",
+          "notes": "He is able to communicate status but he lacks a little bit in structure and clarity some time, his predisposition of thinking of too many things at the same time makes some time his communication not so clear.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "20. In teams of varied personalities and backgrounds, it is inevitable that team members may disagree or conflict on issues of substance or personality.  Our Colleague navigates conflict situations constructively and understands how to defuse situations without letting them become personal. This includes the consistent ability to communicate a negative message (“I disagree with you for X reasons”) while maintaining a personal respect for their team mate and their role.",
+          "review": "5 - Always",
+          "notes": "Always respectful with everybody didn't find any conflict situation in which he didn't exit constructively from it.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a5fd3f04-5624-4975-85c5-08c5c350e527",
+    "firstName": "Cristian",
+    "lastName": "Poputea",
+    "reviewSessions": {
+      "2022-08-14T21:00:00.000Z": [
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "1. Our colleague creates value for their Team at a level consistent with their seniority level (Junior / Intermediate / Senior / Technical Lead / Technical Manager)",
+          "review": "5 - Consistently exceeds expectations",
+          "notes": "Chris brings value whenever possible, to any product or challange he's facig, even outside his area of expertise. He's not only limited to add value on the technical sides,being very helpful in enhancing the teams processes, communication, mentoring other team members.\n\nUI + Sanity, Infrastructure, SCRUM.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "2. Our colleague proactively seeks to understand, apply and comply with industry standards that the Team has agreed to, to their work. This may be evidenced by seeking guidance from more senior members of their team, reading relevant materials, attending conferences, enrolling in training and certifications, etc.",
+          "review": "5 - Always",
+          "notes": "Besides understanding and applying, he is actively searching and suggesting ways the entire team/product could evolve and how value be enhanced.\n\nNextJS boilerplate\nSCRUM\nAWS",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "3. As a technology and engineering organization, we depend on the consistent application of agreed methodologies of work in collaboration with our clients (e.g.: agile scrum) in order to efficiently and reliably meet our commitments with a high standard of quality. Our colleague proactively seeks to understand these processes in collaboration with our client and perform their role in adherence to these processes/ methodologies.",
+          "review": "4 - Frequently",
+          "notes": "As mentioned above, Chis is always a constant contributor for improving our process.\n\nHe proactively tries to understand where the process can be improved.\n\nOrg. refinement",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "4. At varying times, the client may seek to optimize for short term speed vs. long term efficiency. A pragmatic colleague understands this context at all times and strives to adapt their approach and mindset according to our customers current needs. For each unit of work (feature or task), our colleague seeks to understand where on the speed-to-efficiency continuum they should adapt their work so that they can best adapt their solution to the client’s current needs. Within these constraints, our colleague continually seeks the solutions that avoid unnecessary complexity.",
+          "review": "4 - Frequently",
+          "notes": "Besides adapting his approach for each unit of work, he's helped a lot planning and designing solutions where the final input was a ballance of requirements, efficency, quallity and a short deadline. \n\nMapShots",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "5. As members of product engineering teams, we cannot be successful in creating value for our teams and our clients unless we understand the source and definition of that value. For each unit of work (feature or task), our colleague proactively seeks to clarify requirements and tasks as well as seeking to understand acceptance criteria or the desired outcome.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "6. As members of teams that depend on people and technology, there is a never ending supply of flaws, gaps, and items to be improved. While constructive criticism is valuable, much more valuable are the solutions that address those issues. When identifying problems or challenges, rather than simply complaining about them, our Colleague is solution oriented, seeking to identify and implement solutions that generate value for the client, the team, or QC..",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "7. Maximizing value for the team depends on the team’s ability to quickly and efficiently explore a diversity of approaches and solutions. When faced with unfamiliar options or approaches, our colleague does not dismiss them easily or just because they were thought of by someone else, but rather seeks to understand and improve when appropriate.",
+          "review": "4 - Frequently",
+          "notes": "When faced with unfamiliar approaches he's not dismissing them at all, in fact he is an active contributor, listening, understanding, adapting and proposing enhancements if possible tosuggested approach.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "8. Our colleague is ever mindful of commitments that have been made, either by them personally or by their team. This colleague goes above and beyond their normal efforts when necessary in order to honor those commitments.",
+          "review": "5 - Always",
+          "notes": "You can allways rely on Chris to honor his commitments and is a helping hand for the team in order to reach its commitments",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "9. Our Colleague’s team members know that they can depend and rely on him/her to expend all reasonable efforts in order to honor the commitments that have been made.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "10. When the team or their fellow team members are facing a challenge (e.g. operational, deadline, technical) our Colleague proactively seeks to understand how they can help or support in overcoming the challenge.",
+          "review": "5 - Always",
+          "notes": "Consistent++",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "11. When faced with a circumstance where our Colleague disagrees with a decision made by the client, a team member, or their manager, our Colleague can constructively disagree, and commit to the decision with which they disagree, and then actively work to support a successful outcome for that decision.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "12. Our colleague notices when their less experienced team members might be struggling with new concepts or tasks and proactively offers coaching or guidance.",
+          "review": "4 - Frequently",
+          "notes": "Chris proactively offers his help and expertise to the entire team. Coaching is something he's made for, recognised by the entire team",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "13. When approached by a team member for guidance or assistance, our Colleague readily and enthusiastically renders such assistance.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "14. Our Colleague proactively seeks available opportunities (either within QC or outside of QC) to further develop their professional skills. These opportunities might include professional certifications, classes (online or in person), public speaking opportunities, etc.",
+          "review": "5 - Always",
+          "notes": "Consistent++\n\n- SCRUM & AWS\n- Still needs more initiative on public speaking outside of the team.",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "15. Our Colleague proactively seeks to share their unique skills or knowledge within either their immediate team or the broader QC community. This may include such behaviors as sharing articles of professional interest that are relevant to the QC community, speaking at internal QC events, or seeking to advance a community of like minded practitioners of their craft within the QC community.",
+          "review": "4 - Frequently",
+          "notes": "Consistent outside immediate team",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "16. Our Colleague actively seeks as well as constructively receives feedback regarding their performance, behavior, and interactions with their immediate team. When presented with both negative and positive feedback, our Colleague strives to understand the feedback and identify opportunities for improvement. Our Colleague does not get defensive or act to criticize the provider of feedback.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "17. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in INTERNAL team or QC settings.",
+          "review": "4 - Frequently",
+          "notes": "Consistent\n\nKnows how to ask correct questions during demos",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "18. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in CLIENT facing or more formal EXTERNAL situations.  These will likely include daily standups, client product demos, etc.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "19. Good communications are essential for creating visibility and understanding in any client service business or any environment where other team members depend on our efforts.  Our Colleague proactively seeks to communicate the amount of information that is necessary and sufficient to create this visibility both for their team and the Client. This includes the timely communication of the current status of their efforts upon the team's behalf, their availability during business hours, and any obstacles where they may need support in order to be successful in their respective role.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "20. In teams of varied personalities and backgrounds, it is inevitable that team members may disagree or conflict on issues of substance or personality.  Our Colleague navigates conflict situations constructively and understands how to defuse situations without letting them become personal. This includes the consistent ability to communicate a negative message (“I disagree with you for X reasons”) while maintaining a personal respect for their team mate and their role.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2022-08-14T21:00:00.000Z"
+        }
+      ],
+      "2021-12-14T22:00:00.000Z": [
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "1. Our colleague creates value for their Team at a level consistent with their seniority level (Junior / Intermediate / Senior / Technical Lead / Technical Manager)",
+          "review": "4 - Occasionally exceeds expectations",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "2. Our colleague proactively seeks to understand, apply and comply with industry standards that the Team has agreed to, to their work. This may be evidenced by seeking guidance from more senior members of their team, reading relevant materials, attending conferences, enrolling in training and certifications, etc.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "3. As a technology and engineering organization, we depend on the consistent application of agreed methodologies of work in collaboration with our clients (e.g.: agile scrum) in order to efficiently and reliably meet our commitments with a high standard of quality. Our colleague proactively seeks to understand these processes in collaboration with our client and perform their role in adherence to these processes/ methodologies.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "4. At varying times, the client may seek to optimize for short term speed vs. long term efficiency. A pragmatic colleague understands this context at all times and strives to adapt their approach and mindset according to our customers current needs. For each unit of work (feature or task), our colleague seeks to understand where on the speed-to-efficiency continuum they should adapt their work so that they can best adapt their solution to the client’s current needs. Within these constraints, our colleague continually seeks the solutions that avoid unnecessary complexity.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "5. As members of product engineering teams, we cannot be successful in creating value for our teams and our clients unless we understand the source and definition of that value. For each unit of work (feature or task), our colleague proactively seeks to clarify requirements and tasks as well as seeking to understand acceptance criteria or the desired outcome.",
+          "review": "4 - Frequently",
+          "notes": "He is a constant contributor on the design and requirements discussions that helps clarifying the requirements, acceptance criteria and the business needs. He is very well connected also with the product vision and brings constantly very good design or product feedback.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "6. As members of teams that depend on people and technology, there is a never ending supply of flaws, gaps, and items to be improved. While constructive criticism is valuable, much more valuable are the solutions that address those issues. When identifying problems or challenges, rather than simply complaining about them, our Colleague is solution oriented, seeking to identify and implement solutions that generate value for the client, the team, or QC..",
+          "review": "5 - Always",
+          "notes": "Always solution oriented, and always focused on solutions that resolves client problems and delivers value to the clients that are using the product.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "7. Maximizing value for the team depends on the team’s ability to quickly and efficiently explore a diversity of approaches and solutions. When faced with unfamiliar options or approaches, our colleague does not dismiss them easily or just because they were thought of by someone else, but rather seeks to understand and improve when appropriate.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "8. Our colleague is ever mindful of commitments that have been made, either by them personally or by their team. This colleague goes above and beyond their normal efforts when necessary in order to honor those commitments.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "9. Our Colleague’s team members know that they can depend and rely on him/her to expend all reasonable efforts in order to honor the commitments that have been made.",
+          "review": "5 - Always",
+          "notes": "With the complexity of the application growing he is becomming one of the key members of the team and the other team members always rely on him when needed for unlocking them on complex tasks",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "10. When the team or their fellow team members are facing a challenge (e.g. operational, deadline, technical) our Colleague proactively seeks to understand how they can help or support in overcoming the challenge.",
+          "review": "5 - Always",
+          "notes": "Always available and involved when a challenge is occuring for the other colleagues",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "11. When faced with a circumstance where our Colleague disagrees with a decision made by the client, a team member, or their manager, our Colleague can constructively disagree, and commit to the decision with which they disagree, and then actively work to support a successful outcome for that decision.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "12. Our colleague notices when their less experienced team members might be struggling with new concepts or tasks and proactively offers coaching or guidance.",
+          "review": "4 - Frequently",
+          "notes": "He has improved his coaching techniques by being more exposed to this and by constantly seeking feedback and improvements suggestions from the more experienced colleagues.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "13. When approached by a team member for guidance or assistance, our Colleague readily and enthusiastically renders such assistance.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "14. Our Colleague proactively seeks available opportunities (either within QC or outside of QC) to further develop their professional skills. These opportunities might include professional certifications, classes (online or in person), public speaking opportunities, etc.",
+          "review": "4 - Frequently",
+          "notes": "Consistent, still needs more initiative on public speaking outside of the team.",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "15. Our Colleague proactively seeks to share their unique skills or knowledge within either their immediate team or the broader QC community. This may include such behaviors as sharing articles of professional interest that are relevant to the QC community, speaking at internal QC events, or seeking to advance a community of like minded practitioners of their craft within the QC community.",
+          "review": "3 - Sometimes",
+          "notes": "No improvement here, still needs to have more initiative on sharing his skills outside of the team with broader audience",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "16. Our Colleague actively seeks as well as constructively receives feedback regarding their performance, behavior, and interactions with their immediate team. When presented with both negative and positive feedback, our Colleague strives to understand the feedback and identify opportunities for improvement. Our Colleague does not get defensive or act to criticize the provider of feedback.",
+          "review": "5 - Always",
+          "notes": "Constantly seeking for feedback, he doesn't miss an 1on1 session even if he has to chase you till is happening :), always trying to understand what are the opportunities for improvement. Didn't find situations in which he was defensive or criticised who provided the feedback",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "17. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in INTERNAL team or QC settings.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "18. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in CLIENT facing or more formal EXTERNAL situations.  These will likely include daily standups, client product demos, etc.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "19. Good communications are essential for creating visibility and understanding in any client service business or any environment where other team members depend on our efforts.  Our Colleague proactively seeks to communicate the amount of information that is necessary and sufficient to create this visibility both for their team and the Client. This includes the timely communication of the current status of their efforts upon the team's behalf, their availability during business hours, and any obstacles where they may need support in order to be successful in their respective role.",
+          "review": "4 - Frequently",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "20. In teams of varied personalities and backgrounds, it is inevitable that team members may disagree or conflict on issues of substance or personality.  Our Colleague navigates conflict situations constructively and understands how to defuse situations without letting them become personal. This includes the consistent ability to communicate a negative message (“I disagree with you for X reasons”) while maintaining a personal respect for their team mate and their role.",
+          "review": "5 - Always",
+          "notes": "Consistent",
+          "reviewSession": "2021-12-14T22:00:00.000Z"
+        }
+      ],
+      "2021-06-14T21:00:00.000Z": [
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "1. Our colleague creates value for their Team at a level consistent with their seniority level (Junior / Intermediate / Senior / Technical Lead / Technical Manager)",
+          "review": "4 - Occasionally exceeds expectations",
+          "notes": "Chris has been promoted in the new role in the last months and also after that he started to surprise us by continuing to push the expectations limits and creating constantly value for the team and lately not only for the team but also for other enterprise level initiatives",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "2. Our colleague proactively seeks to understand, apply and comply with industry standards that the Team has agreed to, to their work. This may be evidenced by seeking guidance from more senior members of their team, reading relevant materials, attending conferences, enrolling in training and certifications, etc.",
+          "review": "4 - Frequently",
+          "notes": "If is something that is guaranteed that Chris is doing constantly is his focus on seeking the best industry standards to apply, understanding them and the value that they can bring, constantly rising discussions about them inside of the team or by independently searching for materials and opportunities to learn about them.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Domain Competence",
+          "analysedBehaviour": "3. As a technology and engineering organization, we depend on the consistent application of agreed methodologies of work in collaboration with our clients (e.g.: agile scrum) in order to efficiently and reliably meet our commitments with a high standard of quality. Our colleague proactively seeks to understand these processes in collaboration with our client and perform their role in adherence to these processes/ methodologies.",
+          "review": "4 - Frequently",
+          "notes": "Chis is always a constant contributor for improving our process, he always provides valuable feedback and collaborate with all the team members and client for improving our process/way of work.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "4. At varying times, the client may seek to optimize for short term speed vs. long term efficiency. A pragmatic colleague understands this context at all times and strives to adapt their approach and mindset according to our customers current needs. For each unit of work (feature or task), our colleague seeks to understand where on the speed-to-efficiency continuum they should adapt their work so that they can best adapt their solution to the client’s current needs. Within these constraints, our colleague continually seeks the solutions that avoid unnecessary complexity.",
+          "review": "4 - Frequently",
+          "notes": "He is constantly adapting his approach according to current needs and and avoids unnecessary complexity in the solutions he is approaching in the same time not compromising the the quality of the solutions he is delivering.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "5. As members of product engineering teams, we cannot be successful in creating value for our teams and our clients unless we understand the source and definition of that value. For each unit of work (feature or task), our colleague proactively seeks to clarify requirements and tasks as well as seeking to understand acceptance criteria or the desired outcome.",
+          "review": "4 - Frequently",
+          "notes": "He is a constant contributor on the design and requirements discussions that helps clarifying the requirements, acceptance criteria and the business needs. He is very well connected also with the product vision and brings constantly very good design or product feedback.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "6. As members of teams that depend on people and technology, there is a never ending supply of flaws, gaps, and items to be improved. While constructive criticism is valuable, much more valuable are the solutions that address those issues. When identifying problems or challenges, rather than simply complaining about them, our Colleague is solution oriented, seeking to identify and implement solutions that generate value for the client, the team, or QC..",
+          "review": "5 - Always",
+          "notes": "Always solution oriented, and always focused on solutions that resolves client problems and delivers value to the clients that are using the product.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Pragmatism",
+          "analysedBehaviour": "7. Maximizing value for the team depends on the team’s ability to quickly and efficiently explore a diversity of approaches and solutions. When faced with unfamiliar options or approaches, our colleague does not dismiss them easily or just because they were thought of by someone else, but rather seeks to understand and improve when appropriate.",
+          "review": "4 - Frequently",
+          "notes": "Exploring different approaches and solutions is something that he is very passionate about and demonstrates that he is always challenging himself also in this new role going always more and more in a more unknown and complex territory that gives him the possibility to experiment and learn more.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "8. Our colleague is ever mindful of commitments that have been made, either by them personally or by their team. This colleague goes above and beyond their normal efforts when necessary in order to honor those commitments.",
+          "review": "4 - Frequently",
+          "notes": "Constantly focused on the commitments made by the team is frequently doing more than expected for honouring the team commitments.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "9. Our Colleague’s team members know that they can depend and rely on him/her to expend all reasonable efforts in order to honor the commitments that have been made.",
+          "review": "4 - Frequently",
+          "notes": "The entire team can rely on him in order to achieve the teams goals, this has beed expressed also during the feedback that we have gathered from all the team members.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "10. When the team or their fellow team members are facing a challenge (e.g. operational, deadline, technical) our Colleague proactively seeks to understand how they can help or support in overcoming the challenge.",
+          "review": "4 - Frequently",
+          "notes": "Constantly available and proactive for supporting the other team members with their challenges",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Work ethic",
+          "analysedBehaviour": "11. When faced with a circumstance where our Colleague disagrees with a decision made by the client, a team member, or their manager, our Colleague can constructively disagree, and commit to the decision with which they disagree, and then actively work to support a successful outcome for that decision.",
+          "review": "4 - Frequently",
+          "notes": "Didn't find situations in which he was not able to disagree and commit, even if he constantly challenges solutions implementations etc. but his interactions are always leading to constructive discussions",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "12. Our colleague notices when their less experienced team members might be struggling with new concepts or tasks and proactively offers coaching or guidance.",
+          "review": "3 - Sometimes",
+          "notes": "We have started to expose Chris to coaching by giving him the responsibility to coach Matei and he did a very good job with this and helped a lot in pointing Matei in the right directions on the solutions, approaches, learning areas etc. Is something that Chris has very good potential and enthusiasm, he needs needs to improve his coaching techniques/abilities and expose himself more to this type of activities even outside of our team.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "13. When approached by a team member for guidance or assistance, our Colleague readily and enthusiastically renders such assistance.",
+          "review": "5 - Always",
+          "notes": "Always providing assistance",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "14. Our Colleague proactively seeks available opportunities (either within QC or outside of QC) to further develop their professional skills. These opportunities might include professional certifications, classes (online or in person), public speaking opportunities, etc.",
+          "review": "4 - Frequently",
+          "notes": "Frequently seeking learning opportunities, needs a little bit more structure to it and needs to have more initiative on public speaking outside of our team.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Coaching and learning",
+          "analysedBehaviour": "15. Our Colleague proactively seeks to share their unique skills or knowledge within either their immediate team or the broader QC community. This may include such behaviors as sharing articles of professional interest that are relevant to the QC community, speaking at internal QC events, or seeking to advance a community of like minded practitioners of their craft within the QC community.",
+          "review": "3 - Sometimes",
+          "notes": "He is one of our main drivers of the internal knowledge sharing initiatives, he constantly bring topics to discussions, presentations, etc. he is sharing his skills constantly inside of the team, needs to have more initiative outside of the team.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "16. Our Colleague actively seeks as well as constructively receives feedback regarding their performance, behavior, and interactions with their immediate team. When presented with both negative and positive feedback, our Colleague strives to understand the feedback and identify opportunities for improvement. Our Colleague does not get defensive or act to criticize the provider of feedback.",
+          "review": "5 - Always",
+          "notes": "Constantly seeking for feedback, he doesn't miss an 1on1 session even if he has to chase you till is happening :), always trying to understand what are the opportunities for improvement. Didn't find situations in which he was defensive or criticised who provided the feedback",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "17. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in INTERNAL team or QC settings.",
+          "review": "4 - Frequently",
+          "notes": "Very proactive on communication, both verbal and written, speaking of written he is probably the one that have most initiatives in this direction compared with other team members.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "18. Our Colleague is enthusiastic, effective, and proactive when communicating (verbal or written) in CLIENT facing or more formal EXTERNAL situations.  These will likely include daily standups, client product demos, etc.",
+          "review": "4 - Frequently",
+          "notes": "He maintains the same level of communication also with the client or external facing situations.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "19. Good communications are essential for creating visibility and understanding in any client service business or any environment where other team members depend on our efforts.  Our Colleague proactively seeks to communicate the amount of information that is necessary and sufficient to create this visibility both for their team and the Client. This includes the timely communication of the current status of their efforts upon the team's behalf, their availability during business hours, and any obstacles where they may need support in order to be successful in their respective role.",
+          "review": "4 - Frequently",
+          "notes": "Chris communicates effectively and is able to create visibility both for the team and the client.",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        },
+        {
+          "domain": "Communication",
+          "analysedBehaviour": "20. In teams of varied personalities and backgrounds, it is inevitable that team members may disagree or conflict on issues of substance or personality.  Our Colleague navigates conflict situations constructively and understands how to defuse situations without letting them become personal. This includes the consistent ability to communicate a negative message (“I disagree with you for X reasons”) while maintaining a personal respect for their team mate and their role.",
+          "review": "5 - Always",
+          "notes": "Always treating everybody with respect, didn't have any situation of conflict that was not handled well by Chris",
+          "reviewSession": "2021-06-14T21:00:00.000Z"
+        }
+      ]
+    }
+  }
+]

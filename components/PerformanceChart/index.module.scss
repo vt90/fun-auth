@@ -1,7 +1,22 @@
 .tooltip {
-  background-color: pink;
+  border: none !important;
   max-width: 320px;
   overflow: hidden;
+  padding: 24px !important;
   text-align: left !important;
   white-space: pre-wrap !important;
+}
+
+.chartLabel {
+  cursor: pointer;
+  position: relative;
+}
+
+.chartLabel:after {
+  width: 40px;
+  bottom: -8px;
+  left: 0;
+  height: 6px;
+  content: "";
+  position: absolute;
 }

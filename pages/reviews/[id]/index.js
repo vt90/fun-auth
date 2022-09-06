@@ -1,9 +1,8 @@
 import React, {useState, useEffect} from 'react';
 import Button from "@mui/material/Button";
-import Container from "@mui/material/Container";
+import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";
-import Link from 'next/link';
 import dynamic from 'next/dynamic';
 import moment from "moment";
 
@@ -32,6 +31,19 @@ const Review = (props) => {
         }
     }, [currentReportIndex]);
 
+    const onDomainClick = (domain) => {
+        const element = document.getElementById(domain);
+        const headerOffset = 180;
+
+        const elementPosition = element.getBoundingClientRect().top;
+        const offsetPosition = elementPosition - headerOffset;
+
+        document.getElementById('performance-report').scrollBy({
+            top: offsetPosition,
+            behavior: "smooth"
+        });
+    }
+
     const onChartElementClick = (chartElement) => {
         const {data} = chartElement;
         const elementInfo = data[2];
@@ -39,7 +51,7 @@ const Review = (props) => {
 
         if (elementId) {
             const element = document.getElementById(elementInfo?.analysedBehaviour);
-            const headerOffset = 160;
+            const headerOffset = 270;
 
             const elementPosition = element.getBoundingClientRect().top;
             const offsetPosition = elementPosition - headerOffset;
@@ -57,53 +69,54 @@ const Review = (props) => {
 
     return (
         <>
-            <Container maxWidth="xl" sx={{ mb: 3 }}>
-                <Link href="/reviews">
-                    <Typography component="a" gutterBottom variant="subtitle" color="textSecondary">
-                        Reviews /
-                    </Typography>
-                </Link>
-                <Typography component="h1" variant="h3">
-                    {reviewData.firstName} {reviewData.lastName}
-                </Typography>
-
-                {
-                    reviewSessions
-                        ? (
-                            Object.keys(reviewSessions)
-                                .map((session, index) => (
-                                    <Button
-                                        key={session}
-                                        onClick={() => setCurrentReportIndex(index)}
-                                        variant={
-                                            currentReportIndex === index
-                                                ? 'outlined'
-                                                : 'default'
-                                        }
-                                    >
-                                        {moment(session).format('MMMM YYYY')}
-                                    </Button>
-                                ))
-                        )
-                        : null
-                }
-
-            </Container>
-
-
-
             {performanceReviewInfo && (
-                <Grid container alignItems="center" spacing={2}>
-                    <Grid item xs={12} md={6} xl={7}>
-                        <PerformanceChart
-                            data={performanceReviewInfo}
-                            onChartElementClick={onChartElementClick}
-                        />
+                <Grid container alignItems="center" columns={10}>
+                    <Grid item xs={10} md={5} xl={6}>
+                        <Box sx={{ mx: 4, mt: 8 }}>
+                            <PerformanceChart
+                                data={performanceReviewInfo}
+                                onChartElementClick={onChartElementClick}
+                                onDomainClick={onDomainClick}
+                            />
+                        </Box>
                     </Grid>
-                    <Grid item xs={12} md={6} xl={5}>
-                        <PerformanceReport
-                            data={performanceReviewInfo}
-                        />
+                    <Grid
+                        item xs={10} md={5} xl={4}
+                        sx={{ backgroundColor: 'background.paper', minHeight: '100vh',}}
+                    >
+                        <Box sx={{ ml: 6, my: 8 }}>
+                            <Box sx={{ mb: 4 }}>
+                                <Typography component="h1" variant="h4">
+                                    {reviewData.firstName} {reviewData.lastName}
+                                </Typography>
+
+                                {
+                                    reviewSessions
+                                        ? (
+                                            Object.keys(reviewSessions)
+                                                .map((session, index) => (
+                                                    <Button
+                                                        key={session}
+                                                        onClick={() => setCurrentReportIndex(index)}
+                                                        size="small"
+                                                        variant={
+                                                            currentReportIndex === index
+                                                                ? 'outlined'
+                                                                : 'default'
+                                                        }
+                                                    >
+                                                        {moment(session).format('MMMM YYYY')}
+                                                    </Button>
+                                                ))
+                                        )
+                                        : null
+                                }
+                            </Box>
+
+                            <PerformanceReport
+                                data={performanceReviewInfo}
+                            />
+                        </Box>
                     </Grid>
                 </Grid>
             )}

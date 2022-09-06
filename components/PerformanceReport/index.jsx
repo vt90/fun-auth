@@ -7,13 +7,13 @@ import ListSubheader from '@mui/material/ListSubheader';
 import Typography from '@mui/material/Typography';
 import PerformanceReportTimeline from "./Timeline";
 import {CHART_AREA_HEIGHT} from "../../lib/constants";
-import styles from './index.module.scss';
-import {COLORS} from "../../lib/performanceManagement";
+import {useTheme} from "@mui/material/styles";
 
 const PerformanceReport = (props) => {
     const { data } = props;
 
     const [groupedDataByQuestion, setGroupDataByQuestion] = useState(null);
+    const theme = useTheme()
 
 
     useEffect(() => {
@@ -36,8 +36,10 @@ const PerformanceReport = (props) => {
                 width: '100%',
                 position: 'relative',
                 overflow: 'auto',
-                maxHeight: CHART_AREA_HEIGHT,
-                '& ul': { padding: 0, paddingRight: 10 },
+                maxHeight: {
+                    md: CHART_AREA_HEIGHT,
+                },
+                '& ul': { padding: 0, paddingRight: 6 },
             }}
             subheader={<li />}
         >
@@ -45,33 +47,26 @@ const PerformanceReport = (props) => {
                 const domainQuestions = groupedDataByQuestion[domain];
 
                 return (
-                    <li key={`section-${domain}`}>
+                    <li key={`section-${domain}`} id={domain}>
                         <ul>
-                            <ListSubheader sx={{ pb: 1 }}>
+                            <ListSubheader sx={{ pb: 1, backgroundColor: theme.palette.background.paper }} disableGutters>
                                 <Typography
                                     variant="h3"
-                                    className={styles.domain}
+                                    color="text.primary"
                                     gutterBottom
-                                    sx={[
-                                        {
-                                            '&:after': {
-                                                backgroundColor: `rgb(${COLORS[index % COLORS.length].join(', ')})`,
-                                            },
-                                        },
-                                    ]}
                                 >
                                     {domain}
                                 </Typography>
                             </ListSubheader>
                             {domainQuestions.map((question) => (
-                                <ListItem key={question.analysedBehaviour}>
+                                <ListItem key={question.analysedBehaviour} disableGutters>
                                     <ListItemText primary={
                                         <Box
                                             id={question.analysedBehaviour}
                                             sx={{
                                                 display: 'flex',
                                                 alignItems: 'center',
-                                                minHeight: CHART_AREA_HEIGHT - 80
+                                                minHeight: CHART_AREA_HEIGHT - 180
                                             }}
                                         >
                                             <Box>
